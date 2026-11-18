@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Pesos Pesados #2",
+    "pista": {
+      "comprimento": 57
+    },
+    "corredores": [
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "triceratops"
+      },
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "vaca"
+      }
+    ],
+    "vencedor": "hipopotamo",
+    "seed": 2184,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "Aposto que você erra essa!",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "{nome} CRUZOU PRIMEIRO!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Pesos Pesados",
+    "legenda": "Aposto que você erra essa! Corredores: Elefante, Tricerátops, Hipopótamo, Vaca. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#gigantes",
+      "#pesopesado"
+    ]
+  }
+}

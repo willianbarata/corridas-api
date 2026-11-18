@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Lebre x Zebra",
+    "pista": {
+      "comprimento": 55
+    },
+    "corredores": [
+      {
+        "animal": "lebre"
+      },
+      {
+        "animal": "zebra"
+      }
+    ],
+    "vencedor": "zebra",
+    "seed": 2813,
+    "tempoCorrida": 13,
+    "textos": {
+      "gancho": "DUELO: Lebre x Zebra! Quem ganha?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Lebre x Zebra",
+    "legenda": "DUELO: Lebre x Zebra! Quem ganha? Corredores: Lebre, Zebra. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

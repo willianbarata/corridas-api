@@ -1,0 +1,53 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Turma: Fumaça, Zeus, Pingo",
+    "pista": {
+      "comprimento": 62
+    },
+    "corredores": [
+      {
+        "animal": "cavalo",
+        "nome": "Fumaça"
+      },
+      {
+        "animal": "lebre",
+        "nome": "Zeus"
+      },
+      {
+        "animal": "porco",
+        "nome": "Pingo"
+      },
+      {
+        "animal": "flamingo",
+        "nome": "Faísca"
+      },
+      {
+        "animal": "tigre",
+        "nome": "Nino"
+      }
+    ],
+    "vencedor": "tigre",
+    "seed": 7105,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "Torce pro seu favorito!",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Turma: Fumaça, Zeus, Pingo",
+    "legenda": "Torce pro seu favorito! Corredores: Fumaça, Zeus, Pingo, Faísca, Nino. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#pets"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Mega Corrida #14",
+    "pista": {
+      "comprimento": 77
+    },
+    "corredores": [
+      {
+        "animal": "lebre"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "raposa"
+      },
+      {
+        "animal": "pato"
+      },
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "galo"
+      },
+      {
+        "animal": "cavalo"
+      }
+    ],
+    "vencedor": "sorteio",
+    "seed": 6624,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "A maior corrida de todas!",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Mega Corrida",
+    "legenda": "A maior corrida de todas! Corredores: Lebre, Elefante, Raposa, Pato, Avestruz, Leão, Galo, Cavalo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#megacorrida"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida dos Predadores #4",
+    "pista": {
+      "comprimento": 57
+    },
+    "corredores": [
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "raposa"
+      },
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "trex"
+      }
+    ],
+    "vencedor": "cachorro",
+    "seed": 2702,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "Escolhe um ANTES da largada!",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida dos Predadores",
+    "legenda": "Escolhe um ANTES da largada! Corredores: Leão, Raposa, Tigre, Cachorro, T-Rex. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#predadores",
+      "#leao"
+    ]
+  }
+}

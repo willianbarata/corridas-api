@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Ovelha contra os Gigantes 9",
+    "pista": {
+      "comprimento": 60
+    },
+    "corredores": [
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "hipopotamo"
+      }
+    ],
+    "vencedor": "ovelha",
+    "seed": 5329,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "O menor tem alguma chance?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "ZEBRA! DEU {nome}!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Ovelha contra os Gigantes",
+    "legenda": "O menor tem alguma chance? Corredores: T-Rex, Vaca, Ovelha, Leão, Hipopótamo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

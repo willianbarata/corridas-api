@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida dos Predadores #5",
+    "pista": {
+      "comprimento": 57
+    },
+    "corredores": [
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "raposa"
+      },
+      {
+        "animal": "cachorro"
+      }
+    ],
+    "vencedor": "raposa",
+    "seed": 2739,
+    "tempoCorrida": 15,
+    "textos": {
+      "gancho": "Predadores na pista! Quem é o rei?",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "{nome} CRUZOU PRIMEIRO!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida dos Predadores",
+    "legenda": "Predadores na pista! Quem é o rei? Corredores: Tigre, Leão, Raposa, Cachorro. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#predadores",
+      "#leao"
+    ]
+  }
+}

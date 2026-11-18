@@ -1,0 +1,45 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Turma: Zeus, Cometa, Thor",
+    "pista": {
+      "comprimento": 56
+    },
+    "corredores": [
+      {
+        "animal": "cavalo",
+        "nome": "Zeus"
+      },
+      {
+        "animal": "galo",
+        "nome": "Cometa"
+      },
+      {
+        "animal": "triceratops",
+        "nome": "Thor"
+      }
+    ],
+    "vencedor": "triceratops",
+    "seed": 7364,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "Qual bichinho vai ganhar?",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Turma: Zeus, Cometa, Thor",
+    "legenda": "Qual bichinho vai ganhar? Corredores: Zeus, Cometa, Thor. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#pets"
+    ]
+  }
+}

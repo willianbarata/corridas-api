@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Pinguim contra os Gigantes 5",
+    "pista": {
+      "comprimento": 64
+    },
+    "corredores": [
+      {
+        "animal": "pinguim"
+      },
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "trex"
+      }
+    ],
+    "vencedor": "pinguim",
+    "seed": 5181,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "O pinguim tem chance contra os gigantes?",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "NINGUÉM ESPERAVA: {nome}!",
+      "final": "Você acertou? Comenta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Pinguim contra os Gigantes",
+    "legenda": "O pinguim tem chance contra os gigantes? Corredores: Pinguim, Leão, Cavalo, Elefante, T-Rex. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

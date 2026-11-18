@@ -1,0 +1,52 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida dos Fofinhos #3",
+    "pista": {
+      "comprimento": 58
+    },
+    "corredores": [
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "pinguim"
+      },
+      {
+        "animal": "pato"
+      },
+      {
+        "animal": "porco"
+      },
+      {
+        "animal": "lebre"
+      }
+    ],
+    "vencedor": "porco",
+    "seed": 2443,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "Os mais fofos na pista! Quem vence?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "DEU {nome}!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida dos Fofinhos",
+    "legenda": "Os mais fofos na pista! Quem vence? Corredores: Cachorro, Ovelha, Pinguim, Pato, Porco, Lebre. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#fofura",
+      "#fofinhos"
+    ]
+  }
+}

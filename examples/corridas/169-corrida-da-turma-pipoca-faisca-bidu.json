@@ -1,0 +1,45 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Turma: Pipoca, Faísca, Bidu",
+    "pista": {
+      "comprimento": 59
+    },
+    "corredores": [
+      {
+        "animal": "cachorro",
+        "nome": "Pipoca"
+      },
+      {
+        "animal": "tigre",
+        "nome": "Faísca"
+      },
+      {
+        "animal": "vaca",
+        "nome": "Bidu"
+      }
+    ],
+    "vencedor": "vaca",
+    "seed": 7253,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "Qual bichinho vai ganhar?",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Turma: Pipoca, Faísca, Bidu",
+    "legenda": "Qual bichinho vai ganhar? Corredores: Pipoca, Faísca, Bidu. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#pets"
+    ]
+  }
+}

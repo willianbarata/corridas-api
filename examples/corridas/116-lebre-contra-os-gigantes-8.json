@@ -1,0 +1,43 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Lebre contra os Gigantes 8",
+    "pista": {
+      "comprimento": 54
+    },
+    "corredores": [
+      {
+        "animal": "lebre"
+      },
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "rinoceronte"
+      }
+    ],
+    "vencedor": "lebre",
+    "seed": 5292,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "A lebre tem chance contra os gigantes?",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "SURPRESA! {nome} GANHOU!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Lebre contra os Gigantes",
+    "legenda": "A lebre tem chance contra os gigantes? Corredores: Lebre, T-Rex, Rinoceronte. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

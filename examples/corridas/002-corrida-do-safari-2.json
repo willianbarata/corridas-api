@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida do Safari #2",
+    "pista": {
+      "comprimento": 70
+    },
+    "corredores": [
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "zebra"
+      },
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "rinoceronte"
+      }
+    ],
+    "vencedor": "zebra",
+    "seed": 1074,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "Essa corrida vai te surpreender!",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida do Safari",
+    "legenda": "Essa corrida vai te surpreender! Corredores: Tigre, Zebra, Leão, Rinoceronte. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#safari",
+      "#savana"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Elefante x Galo",
+    "pista": {
+      "comprimento": 47
+    },
+    "corredores": [
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "galo"
+      }
+    ],
+    "vencedor": "elefante",
+    "seed": 2924,
+    "tempoCorrida": 13,
+    "textos": {
+      "gancho": "DUELO: Elefante x Galo! Quem ganha?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "DEU {nome}!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Elefante x Galo",
+    "legenda": "DUELO: Elefante x Galo! Quem ganha? Corredores: Elefante, Galo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

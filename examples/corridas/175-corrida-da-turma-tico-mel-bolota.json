@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Turma: Tico, Mel, Bolota",
+    "pista": {
+      "comprimento": 58
+    },
+    "corredores": [
+      {
+        "animal": "elefante",
+        "nome": "Tico"
+      },
+      {
+        "animal": "flamingo",
+        "nome": "Mel"
+      },
+      {
+        "animal": "galo",
+        "nome": "Bolota"
+      },
+      {
+        "animal": "porco",
+        "nome": "Relâmpago"
+      }
+    ],
+    "vencedor": "porco",
+    "seed": 7475,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "Torce pro seu favorito!",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "DEU {nome}!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Turma: Tico, Mel, Bolota",
+    "legenda": "Torce pro seu favorito! Corredores: Tico, Mel, Bolota, Relâmpago. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#pets"
+    ]
+  }
+}

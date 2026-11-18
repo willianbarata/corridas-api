@@ -1,0 +1,52 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Raposa contra os Gigantes 15",
+    "pista": {
+      "comprimento": 59
+    },
+    "corredores": [
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "triceratops"
+      },
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "raposa"
+      }
+    ],
+    "vencedor": "raposa",
+    "seed": 5551,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "A raposa tem chance contra os gigantes?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "ZEBRA! DEU {nome}!",
+      "final": "Você acertou? Comenta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Raposa contra os Gigantes",
+    "legenda": "A raposa tem chance contra os gigantes? Corredores: Vaca, Cavalo, Tricerátops, Hipopótamo, Tigre, Raposa. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

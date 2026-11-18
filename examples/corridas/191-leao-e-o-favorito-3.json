@@ -1,0 +1,48 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Leão é o Favorito? 3",
+    "pista": {
+      "comprimento": 58
+    },
+    "corredores": [
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "porco"
+      },
+      {
+        "animal": "raposa"
+      },
+      {
+        "animal": "leao"
+      }
+    ],
+    "vencedor": "leao",
+    "seed": 8067,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "Todo mundo aposta no Leão... e você?",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "{nome} CRUZOU PRIMEIRO!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Leão é o Favorito?",
+    "legenda": "Todo mundo aposta no Leão... e você? Corredores: Vaca, T-Rex, Porco, Raposa, Leão. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#favorito"
+    ]
+  }
+}

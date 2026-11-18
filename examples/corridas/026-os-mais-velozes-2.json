@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Os Mais Velozes #2",
+    "pista": {
+      "comprimento": 57
+    },
+    "corredores": [
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "zebra"
+      },
+      {
+        "animal": "raposa"
+      },
+      {
+        "animal": "tigre"
+      }
+    ],
+    "vencedor": "tigre",
+    "seed": 1962,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "Quem você acha que ganha?",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "{nome} VENCEU!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Os Mais Velozes",
+    "legenda": "Quem você acha que ganha? Corredores: Leão, Cavalo, Zebra, Raposa, Tigre. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#velocidade",
+      "#animaisrapidos"
+    ]
+  }
+}

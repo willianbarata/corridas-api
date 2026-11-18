@@ -1,0 +1,53 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Turma: Bolota, Pingo, Tico",
+    "pista": {
+      "comprimento": 55
+    },
+    "corredores": [
+      {
+        "animal": "pato",
+        "nome": "Bolota"
+      },
+      {
+        "animal": "avestruz",
+        "nome": "Pingo"
+      },
+      {
+        "animal": "zebra",
+        "nome": "Tico"
+      },
+      {
+        "animal": "hipopotamo",
+        "nome": "Chiclete"
+      },
+      {
+        "animal": "rinoceronte",
+        "nome": "Mel"
+      }
+    ],
+    "vencedor": "zebra",
+    "seed": 7142,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "Qual bichinho vai ganhar?",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "{nome} CRUZOU PRIMEIRO!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Turma: Bolota, Pingo, Tico",
+    "legenda": "Qual bichinho vai ganhar? Corredores: Bolota, Pingo, Tico, Chiclete, Mel. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#pets"
+    ]
+  }
+}

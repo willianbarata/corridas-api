@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Pinguim contra os Gigantes 6",
+    "pista": {
+      "comprimento": 64
+    },
+    "corredores": [
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "pinguim"
+      }
+    ],
+    "vencedor": "pinguim",
+    "seed": 5218,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "Ninguém aposta no pequeno...",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "NINGUÉM ESPERAVA: {nome}!",
+      "final": "Você acertou? Comenta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Pinguim contra os Gigantes",
+    "legenda": "Ninguém aposta no pequeno... Corredores: Cavalo, Elefante, Tigre, Vaca, Pinguim. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

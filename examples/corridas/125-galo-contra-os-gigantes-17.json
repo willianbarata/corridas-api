@@ -1,0 +1,52 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Galo contra os Gigantes 17",
+    "pista": {
+      "comprimento": 58
+    },
+    "corredores": [
+      {
+        "animal": "rinoceronte"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "triceratops"
+      },
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "galo"
+      }
+    ],
+    "vencedor": "galo",
+    "seed": 5625,
+    "tempoCorrida": 16,
+    "textos": {
+      "gancho": "O menor tem alguma chance?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "ZEBRA! DEU {nome}!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Galo contra os Gigantes",
+    "legenda": "O menor tem alguma chance? Corredores: Rinoceronte, Elefante, Tricerátops, T-Rex, Vaca, Galo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "corridas-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "API que recebe corridas de animais em JSON e renderiza vídeos 3D verticais com Godot.",
+  "scripts": {
+    "render": "node tools/render.mjs",
+    "validate": "node tools/render.mjs --validar",
+    "test": "node --test tests/*.test.mjs",
+    "start": "node src/server.mjs",
+    "gerar": "node tools/gerar-corridas.mjs"
+  },
+  "dependencies": {
+    "zod": "4.6.7"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

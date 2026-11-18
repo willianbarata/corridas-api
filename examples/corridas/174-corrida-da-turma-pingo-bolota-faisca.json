@@ -1,0 +1,53 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Turma: Pingo, Bolota, Faísca",
+    "pista": {
+      "comprimento": 63
+    },
+    "corredores": [
+      {
+        "animal": "cachorro",
+        "nome": "Pingo"
+      },
+      {
+        "animal": "galo",
+        "nome": "Bolota"
+      },
+      {
+        "animal": "rinoceronte",
+        "nome": "Faísca"
+      },
+      {
+        "animal": "hipopotamo",
+        "nome": "Tico"
+      },
+      {
+        "animal": "porco",
+        "nome": "Trovão"
+      }
+    ],
+    "vencedor": "cachorro",
+    "seed": 7438,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "Qual bichinho vai ganhar?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Turma: Pingo, Bolota, Faísca",
+    "legenda": "Qual bichinho vai ganhar? Corredores: Pingo, Bolota, Faísca, Tico, Trovão. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#pets"
+    ]
+  }
+}

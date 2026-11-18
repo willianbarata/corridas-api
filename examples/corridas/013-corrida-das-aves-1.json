@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida das Aves #1",
+    "pista": {
+      "comprimento": 64
+    },
+    "corredores": [
+      {
+        "animal": "flamingo"
+      },
+      {
+        "animal": "pinguim"
+      },
+      {
+        "animal": "galo"
+      },
+      {
+        "animal": "pato"
+      }
+    ],
+    "vencedor": "pato",
+    "seed": 1481,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "Aves na pista! Qual é a mais rápida?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida das Aves",
+    "legenda": "Aves na pista! Qual é a mais rápida? Corredores: Flamingo, Pinguim, Galo, Pato. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#aves",
+      "#passaros"
+    ]
+  }
+}

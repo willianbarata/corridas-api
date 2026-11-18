@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Tigre x Elefante",
+    "pista": {
+      "comprimento": 50
+    },
+    "corredores": [
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "elefante"
+      }
+    ],
+    "vencedor": "tigre",
+    "seed": 4885,
+    "tempoCorrida": 11,
+    "textos": {
+      "gancho": "DUELO: Tigre x Elefante! Quem ganha?",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Tigre x Elefante",
+    "legenda": "DUELO: Tigre x Elefante! Quem ganha? Corredores: Tigre, Elefante. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

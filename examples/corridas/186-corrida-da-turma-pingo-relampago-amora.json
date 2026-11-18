@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Turma: Pingo, Relâmpago, Amora",
+    "pista": {
+      "comprimento": 67
+    },
+    "corredores": [
+      {
+        "animal": "raposa",
+        "nome": "Pingo"
+      },
+      {
+        "animal": "avestruz",
+        "nome": "Relâmpago"
+      },
+      {
+        "animal": "tigre",
+        "nome": "Amora"
+      },
+      {
+        "animal": "galo",
+        "nome": "Foguete"
+      }
+    ],
+    "vencedor": "avestruz",
+    "seed": 7882,
+    "tempoCorrida": 16,
+    "textos": {
+      "gancho": "Pingo, Relâmpago ou Amora?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} CRUZOU PRIMEIRO!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Turma: Pingo, Relâmpago, Amora",
+    "legenda": "Pingo, Relâmpago ou Amora? Corredores: Pingo, Relâmpago, Amora, Foguete. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#pets"
+    ]
+  }
+}

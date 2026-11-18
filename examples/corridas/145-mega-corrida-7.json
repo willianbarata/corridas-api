@@ -1,0 +1,57 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Mega Corrida #7",
+    "pista": {
+      "comprimento": 67
+    },
+    "corredores": [
+      {
+        "animal": "flamingo"
+      },
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "rinoceronte"
+      },
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "pinguim"
+      }
+    ],
+    "vencedor": "sorteio",
+    "seed": 6365,
+    "tempoCorrida": 19,
+    "textos": {
+      "gancho": "MEGA CORRIDA com 8 animais!",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Mega Corrida",
+    "legenda": "MEGA CORRIDA com 8 animais! Corredores: Flamingo, Leão, Cavalo, Ovelha, Avestruz, Rinoceronte, Tigre, Pinguim. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#megacorrida"
+    ]
+  }
+}

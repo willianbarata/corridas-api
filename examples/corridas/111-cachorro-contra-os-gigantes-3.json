@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Cachorro contra os Gigantes 3",
+    "pista": {
+      "comprimento": 67
+    },
+    "corredores": [
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "triceratops"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "cachorro"
+      }
+    ],
+    "vencedor": "cachorro",
+    "seed": 5107,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "Ninguém aposta no pequeno...",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "ZEBRA! DEU {nome}!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Cachorro contra os Gigantes",
+    "legenda": "Ninguém aposta no pequeno... Corredores: Leão, Tricerátops, Elefante, Cachorro. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

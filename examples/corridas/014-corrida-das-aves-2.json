@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida das Aves #2",
+    "pista": {
+      "comprimento": 54
+    },
+    "corredores": [
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "galo"
+      },
+      {
+        "animal": "flamingo"
+      },
+      {
+        "animal": "pinguim"
+      }
+    ],
+    "vencedor": "pinguim",
+    "seed": 1518,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "Essa corrida vai te surpreender!",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "{nome} VENCEU!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Corrida das Aves",
+    "legenda": "Essa corrida vai te surpreender! Corredores: Avestruz, Galo, Flamingo, Pinguim. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#aves",
+      "#passaros"
+    ]
+  }
+}

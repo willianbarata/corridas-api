@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida dos Fofinhos #6",
+    "pista": {
+      "comprimento": 66
+    },
+    "corredores": [
+      {
+        "animal": "lebre"
+      },
+      {
+        "animal": "porco"
+      },
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "pinguim"
+      }
+    ],
+    "vencedor": "porco",
+    "seed": 2554,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "Pausa e escolhe o seu!",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida dos Fofinhos",
+    "legenda": "Pausa e escolhe o seu! Corredores: Lebre, Porco, Ovelha, Pinguim. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#fofura",
+      "#fofinhos"
+    ]
+  }
+}

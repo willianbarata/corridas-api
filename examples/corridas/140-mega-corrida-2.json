@@ -1,0 +1,57 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Mega Corrida #2",
+    "pista": {
+      "comprimento": 80
+    },
+    "corredores": [
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "pinguim"
+      },
+      {
+        "animal": "porco"
+      },
+      {
+        "animal": "flamingo"
+      },
+      {
+        "animal": "pato"
+      },
+      {
+        "animal": "zebra"
+      },
+      {
+        "animal": "raposa"
+      },
+      {
+        "animal": "cavalo"
+      }
+    ],
+    "vencedor": "sorteio",
+    "seed": 6180,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "A maior corrida de todas!",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Mega Corrida",
+    "legenda": "A maior corrida de todas! Corredores: Tigre, Pinguim, Porco, Flamingo, Pato, Zebra, Raposa, Cavalo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#megacorrida"
+    ]
+  }
+}

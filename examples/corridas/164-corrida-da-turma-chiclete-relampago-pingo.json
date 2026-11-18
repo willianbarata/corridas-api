@@ -1,0 +1,53 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Turma: Chiclete, Relâmpago, Pingo",
+    "pista": {
+      "comprimento": 50
+    },
+    "corredores": [
+      {
+        "animal": "flamingo",
+        "nome": "Chiclete"
+      },
+      {
+        "animal": "galo",
+        "nome": "Relâmpago"
+      },
+      {
+        "animal": "pinguim",
+        "nome": "Pingo"
+      },
+      {
+        "animal": "pato",
+        "nome": "Fumaça"
+      },
+      {
+        "animal": "vaca",
+        "nome": "Tico"
+      }
+    ],
+    "vencedor": "galo",
+    "seed": 7068,
+    "tempoCorrida": 15,
+    "textos": {
+      "gancho": "Qual bichinho vai ganhar?",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Turma: Chiclete, Relâmpago, Pingo",
+    "legenda": "Qual bichinho vai ganhar? Corredores: Chiclete, Relâmpago, Pingo, Fumaça, Tico. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#pets"
+    ]
+  }
+}

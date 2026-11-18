@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Fazenda #3",
+    "pista": {
+      "comprimento": 57
+    },
+    "corredores": [
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "galo"
+      },
+      {
+        "animal": "pato"
+      },
+      {
+        "animal": "ovelha"
+      }
+    ],
+    "vencedor": "galo",
+    "seed": 1333,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "Corrida da fazenda: quem ganha?",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "{nome} CRUZOU PRIMEIRO!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Fazenda",
+    "legenda": "Corrida da fazenda: quem ganha? Corredores: Vaca, Galo, Pato, Ovelha. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#fazenda",
+      "#animaisdafazenda"
+    ]
+  }
+}

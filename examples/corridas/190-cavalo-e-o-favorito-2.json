@@ -1,0 +1,48 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Cavalo é o Favorito? 2",
+    "pista": {
+      "comprimento": 66
+    },
+    "corredores": [
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "lebre"
+      },
+      {
+        "animal": "leao"
+      }
+    ],
+    "vencedor": "avestruz",
+    "seed": 8030,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "Todo mundo aposta no Cavalo... e você?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "ZEBRA! DEU {nome}!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Cavalo é o Favorito?",
+    "legenda": "Todo mundo aposta no Cavalo... e você? Corredores: Cavalo, Elefante, Avestruz, Lebre, Leão. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#favorito"
+    ]
+  }
+}

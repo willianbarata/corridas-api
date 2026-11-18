@@ -1,0 +1,48 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Tigre é o Favorito? 10",
+    "pista": {
+      "comprimento": 59
+    },
+    "corredores": [
+      {
+        "animal": "pato"
+      },
+      {
+        "animal": "flamingo"
+      },
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "tigre"
+      }
+    ],
+    "vencedor": "avestruz",
+    "seed": 8326,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "Todo mundo aposta no Tigre... e você?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "ZEBRA! DEU {nome}!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Tigre é o Favorito?",
+    "legenda": "Todo mundo aposta no Tigre... e você? Corredores: Pato, Flamingo, Avestruz, T-Rex, Tigre. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#favorito"
+    ]
+  }
+}

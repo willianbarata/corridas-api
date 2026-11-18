@@ -1,0 +1,43 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Pato contra os Gigantes 7",
+    "pista": {
+      "comprimento": 52
+    },
+    "corredores": [
+      {
+        "animal": "triceratops"
+      },
+      {
+        "animal": "pato"
+      },
+      {
+        "animal": "hipopotamo"
+      }
+    ],
+    "vencedor": "pato",
+    "seed": 5255,
+    "tempoCorrida": 16,
+    "textos": {
+      "gancho": "Ninguém aposta no pequeno...",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "SURPRESA! {nome} GANHOU!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Pato contra os Gigantes",
+    "legenda": "Ninguém aposta no pequeno... Corredores: Tricerátops, Pato, Hipopótamo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

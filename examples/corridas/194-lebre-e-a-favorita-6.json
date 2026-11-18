@@ -1,0 +1,48 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Lebre é a Favorita? 6",
+    "pista": {
+      "comprimento": 53
+    },
+    "corredores": [
+      {
+        "animal": "rinoceronte"
+      },
+      {
+        "animal": "lebre"
+      },
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "ovelha"
+      }
+    ],
+    "vencedor": "rinoceronte",
+    "seed": 8178,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "Todo mundo aposta na Lebre... e você?",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "SURPRESA! {nome} GANHOU!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Lebre é a Favorita?",
+    "legenda": "Todo mundo aposta na Lebre... e você? Corredores: Rinoceronte, Lebre, Cavalo, Leão, Ovelha. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#favorito"
+    ]
+  }
+}

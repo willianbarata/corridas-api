@@ -1,0 +1,57 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Mega Corrida #23",
+    "pista": {
+      "comprimento": 66
+    },
+    "corredores": [
+      {
+        "animal": "flamingo"
+      },
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "porco"
+      },
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "galo"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "leao"
+      }
+    ],
+    "vencedor": "sorteio",
+    "seed": 6957,
+    "tempoCorrida": 20,
+    "textos": {
+      "gancho": "A maior corrida de todas!",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} VENCEU!",
+      "final": "Você acertou? Comenta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Mega Corrida",
+    "legenda": "A maior corrida de todas! Corredores: Flamingo, Avestruz, Porco, Cavalo, T-Rex, Galo, Elefante, Leão. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#megacorrida"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Ovelha x Porco",
+    "pista": {
+      "comprimento": 45
+    },
+    "corredores": [
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "porco"
+      }
+    ],
+    "vencedor": "ovelha",
+    "seed": 4626,
+    "tempoCorrida": 12,
+    "textos": {
+      "gancho": "DUELO: Ovelha x Porco! Quem ganha?",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "{nome} CRUZOU PRIMEIRO!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Ovelha x Porco",
+    "legenda": "DUELO: Ovelha x Porco! Quem ganha? Corredores: Ovelha, Porco. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Turma: Jujuba, Trovão, Paçoca",
+    "pista": {
+      "comprimento": 57
+    },
+    "corredores": [
+      {
+        "animal": "raposa",
+        "nome": "Jujuba"
+      },
+      {
+        "animal": "flamingo",
+        "nome": "Trovão"
+      },
+      {
+        "animal": "porco",
+        "nome": "Paçoca"
+      },
+      {
+        "animal": "zebra",
+        "nome": "Faísca"
+      },
+      {
+        "animal": "cachorro",
+        "nome": "Relâmpago"
+      }
+    ],
+    "vencedor": "flamingo",
+    "seed": 7586,
+    "tempoCorrida": 15,
+    "textos": {
+      "gancho": "Jujuba, Trovão ou Paçoca?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "DEU {nome}!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Turma: Jujuba, Trovão, Paçoca",
+    "legenda": "Jujuba, Trovão ou Paçoca? Corredores: Jujuba, Trovão, Paçoca, Faísca, Relâmpago. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#pets"
+    ]
+  }
+}

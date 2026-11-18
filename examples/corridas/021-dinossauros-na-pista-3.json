@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Dinossauros na Pista #3",
+    "pista": {
+      "comprimento": 67
+    },
+    "corredores": [
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "leao"
+      }
+    ],
+    "vencedor": "elefante",
+    "seed": 1777,
+    "tempoCorrida": 16,
+    "textos": {
+      "gancho": "Dinossauros x animais de hoje!",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "DEU {nome}!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Dinossauros na Pista",
+    "legenda": "Dinossauros x animais de hoje! Corredores: Elefante, Cavalo, Hipopótamo, Leão. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#dinossauro",
+      "#trex"
+    ]
+  }
+}

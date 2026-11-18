@@ -1,0 +1,43 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Porco contra os Gigantes 13",
+    "pista": {
+      "comprimento": 68
+    },
+    "corredores": [
+      {
+        "animal": "porco"
+      },
+      {
+        "animal": "triceratops"
+      },
+      {
+        "animal": "rinoceronte"
+      }
+    ],
+    "vencedor": "porco",
+    "seed": 5477,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "O menor tem alguma chance?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "NINGUÉM ESPERAVA: {nome}!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Porco contra os Gigantes",
+    "legenda": "O menor tem alguma chance? Corredores: Porco, Tricerátops, Rinoceronte. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

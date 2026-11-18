@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Cachorro contra os Gigantes 28",
+    "pista": {
+      "comprimento": 54
+    },
+    "corredores": [
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "rinoceronte"
+      },
+      {
+        "animal": "elefante"
+      }
+    ],
+    "vencedor": "cachorro",
+    "seed": 6032,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "O cachorro tem chance contra os gigantes?",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "ZEBRA! DEU {nome}!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Cachorro contra os Gigantes",
+    "legenda": "O cachorro tem chance contra os gigantes? Corredores: Cachorro, Hipopótamo, T-Rex, Rinoceronte, Elefante. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

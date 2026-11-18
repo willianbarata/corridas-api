@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Pesos Pesados #4",
+    "pista": {
+      "comprimento": 60
+    },
+    "corredores": [
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "rinoceronte"
+      }
+    ],
+    "vencedor": "trex",
+    "seed": 2258,
+    "tempoCorrida": 16,
+    "textos": {
+      "gancho": "Essa corrida vai te surpreender!",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} VENCEU!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Pesos Pesados",
+    "legenda": "Essa corrida vai te surpreender! Corredores: T-Rex, Elefante, Vaca, Rinoceronte. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#gigantes",
+      "#pesopesado"
+    ]
+  }
+}

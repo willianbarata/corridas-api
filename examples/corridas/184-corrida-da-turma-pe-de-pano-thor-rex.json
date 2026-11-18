@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Turma: Pé de Pano, Thor, Rex",
+    "pista": {
+      "comprimento": 64
+    },
+    "corredores": [
+      {
+        "animal": "pato",
+        "nome": "Pé de Pano"
+      },
+      {
+        "animal": "lebre",
+        "nome": "Thor"
+      },
+      {
+        "animal": "trex",
+        "nome": "Rex"
+      },
+      {
+        "animal": "cavalo",
+        "nome": "Fumaça"
+      }
+    ],
+    "vencedor": "trex",
+    "seed": 7808,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "Pé de Pano, Thor ou Rex?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Turma: Pé de Pano, Thor, Rex",
+    "legenda": "Pé de Pano, Thor ou Rex? Corredores: Pé de Pano, Thor, Rex, Fumaça. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#pets"
+    ]
+  }
+}

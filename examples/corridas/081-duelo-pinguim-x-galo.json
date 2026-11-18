@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Pinguim x Galo",
+    "pista": {
+      "comprimento": 46
+    },
+    "corredores": [
+      {
+        "animal": "pinguim"
+      },
+      {
+        "animal": "galo"
+      }
+    ],
+    "vencedor": "galo",
+    "seed": 3997,
+    "tempoCorrida": 13,
+    "textos": {
+      "gancho": "DUELO: Pinguim x Galo! Quem ganha?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "DEU {nome}!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Pinguim x Galo",
+    "legenda": "DUELO: Pinguim x Galo! Quem ganha? Corredores: Pinguim, Galo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

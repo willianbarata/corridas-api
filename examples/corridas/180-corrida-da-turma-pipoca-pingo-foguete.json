@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Turma: Pipoca, Pingo, Foguete",
+    "pista": {
+      "comprimento": 59
+    },
+    "corredores": [
+      {
+        "animal": "pato",
+        "nome": "Pipoca"
+      },
+      {
+        "animal": "lebre",
+        "nome": "Pingo"
+      },
+      {
+        "animal": "hipopotamo",
+        "nome": "Foguete"
+      },
+      {
+        "animal": "zebra",
+        "nome": "Jujuba"
+      }
+    ],
+    "vencedor": "lebre",
+    "seed": 7660,
+    "tempoCorrida": 16,
+    "textos": {
+      "gancho": "Torce pro seu favorito!",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Turma: Pipoca, Pingo, Foguete",
+    "legenda": "Torce pro seu favorito! Corredores: Pipoca, Pingo, Foguete, Jujuba. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#pets"
+    ]
+  }
+}

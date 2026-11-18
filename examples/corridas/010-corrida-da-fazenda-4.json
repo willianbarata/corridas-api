@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Fazenda #4",
+    "pista": {
+      "comprimento": 52
+    },
+    "corredores": [
+      {
+        "animal": "pato"
+      },
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "galo"
+      }
+    ],
+    "vencedor": "galo",
+    "seed": 1370,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "Quem você acha que ganha?",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Fazenda",
+    "legenda": "Quem você acha que ganha? Corredores: Pato, Cachorro, Vaca, Galo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#fazenda",
+      "#animaisdafazenda"
+    ]
+  }
+}

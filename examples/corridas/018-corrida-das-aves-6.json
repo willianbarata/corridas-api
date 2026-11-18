@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida das Aves #6",
+    "pista": {
+      "comprimento": 70
+    },
+    "corredores": [
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "galo"
+      },
+      {
+        "animal": "flamingo"
+      },
+      {
+        "animal": "pinguim"
+      },
+      {
+        "animal": "pato"
+      }
+    ],
+    "vencedor": "pato",
+    "seed": 1666,
+    "tempoCorrida": 16,
+    "textos": {
+      "gancho": "Qual animal vai ganhar?",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida das Aves",
+    "legenda": "Qual animal vai ganhar? Corredores: Avestruz, Galo, Flamingo, Pinguim, Pato. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#aves",
+      "#passaros"
+    ]
+  }
+}

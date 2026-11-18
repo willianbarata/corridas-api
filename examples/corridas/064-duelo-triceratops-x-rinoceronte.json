@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Tricerátops x Rinoceronte",
+    "pista": {
+      "comprimento": 41
+    },
+    "corredores": [
+      {
+        "animal": "triceratops"
+      },
+      {
+        "animal": "rinoceronte"
+      }
+    ],
+    "vencedor": "rinoceronte",
+    "seed": 3368,
+    "tempoCorrida": 12,
+    "textos": {
+      "gancho": "DUELO: Tricerátops x Rinoceronte! Quem ganha?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "DEU {nome}!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Tricerátops x Rinoceronte",
+    "legenda": "DUELO: Tricerátops x Rinoceronte! Quem ganha? Corredores: Tricerátops, Rinoceronte. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

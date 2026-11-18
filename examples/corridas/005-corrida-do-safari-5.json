@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida do Safari #5",
+    "pista": {
+      "comprimento": 53
+    },
+    "corredores": [
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "zebra"
+      },
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "elefante"
+      }
+    ],
+    "vencedor": "tigre",
+    "seed": 1185,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "Corrida do safari: quem ganha?",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Corrida do Safari",
+    "legenda": "Corrida do safari: quem ganha? Corredores: Tigre, Leão, Zebra, Hipopótamo, Elefante. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#safari",
+      "#savana"
+    ]
+  }
+}

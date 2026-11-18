@@ -1,0 +1,57 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Mega Corrida #17",
+    "pista": {
+      "comprimento": 74
+    },
+    "corredores": [
+      {
+        "animal": "galo"
+      },
+      {
+        "animal": "pato"
+      },
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "zebra"
+      },
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "triceratops"
+      },
+      {
+        "animal": "vaca"
+      }
+    ],
+    "vencedor": "sorteio",
+    "seed": 6735,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "A maior corrida de todas!",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "DEU {nome}!",
+      "final": "Você acertou? Comenta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Mega Corrida",
+    "legenda": "A maior corrida de todas! Corredores: Galo, Pato, Ovelha, Hipopótamo, Zebra, Leão, Tricerátops, Vaca. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#megacorrida"
+    ]
+  }
+}

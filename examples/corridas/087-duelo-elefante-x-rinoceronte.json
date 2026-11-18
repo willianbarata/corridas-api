@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Elefante x Rinoceronte",
+    "pista": {
+      "comprimento": 40
+    },
+    "corredores": [
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "rinoceronte"
+      }
+    ],
+    "vencedor": "elefante",
+    "seed": 4219,
+    "tempoCorrida": 12,
+    "textos": {
+      "gancho": "DUELO: Elefante x Rinoceronte! Quem ganha?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} CRUZOU PRIMEIRO!",
+      "final": "Você acertou? Comenta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Elefante x Rinoceronte",
+    "legenda": "DUELO: Elefante x Rinoceronte! Quem ganha? Corredores: Elefante, Rinoceronte. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

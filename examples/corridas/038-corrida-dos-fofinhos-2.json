@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida dos Fofinhos #2",
+    "pista": {
+      "comprimento": 51
+    },
+    "corredores": [
+      {
+        "animal": "lebre"
+      },
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "porco"
+      }
+    ],
+    "vencedor": "cachorro",
+    "seed": 2406,
+    "tempoCorrida": 15,
+    "textos": {
+      "gancho": "Aposto que você erra essa!",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "DEU {nome}!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida dos Fofinhos",
+    "legenda": "Aposto que você erra essa! Corredores: Lebre, Cachorro, Ovelha, Porco. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#fofura",
+      "#fofinhos"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Flamingo x Tricerátops",
+    "pista": {
+      "comprimento": 48
+    },
+    "corredores": [
+      {
+        "animal": "flamingo"
+      },
+      {
+        "animal": "triceratops"
+      }
+    ],
+    "vencedor": "flamingo",
+    "seed": 4922,
+    "tempoCorrida": 13,
+    "textos": {
+      "gancho": "DUELO: Flamingo x Tricerátops! Quem ganha?",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Flamingo x Tricerátops",
+    "legenda": "DUELO: Flamingo x Tricerátops! Quem ganha? Corredores: Flamingo, Tricerátops. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

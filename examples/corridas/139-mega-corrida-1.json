@@ -1,0 +1,57 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Mega Corrida #1",
+    "pista": {
+      "comprimento": 72
+    },
+    "corredores": [
+      {
+        "animal": "rinoceronte"
+      },
+      {
+        "animal": "galo"
+      },
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "zebra"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "pato"
+      },
+      {
+        "animal": "tigre"
+      }
+    ],
+    "vencedor": "sorteio",
+    "seed": 6143,
+    "tempoCorrida": 19,
+    "textos": {
+      "gancho": "MEGA CORRIDA com 8 animais!",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "{nome} CRUZOU PRIMEIRO!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Mega Corrida",
+    "legenda": "MEGA CORRIDA com 8 animais! Corredores: Rinoceronte, Galo, Ovelha, Cachorro, Zebra, Elefante, Pato, Tigre. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#megacorrida"
+    ]
+  }
+}

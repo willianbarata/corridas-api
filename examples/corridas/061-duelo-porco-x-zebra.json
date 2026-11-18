@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Porco x Zebra",
+    "pista": {
+      "comprimento": 45
+    },
+    "corredores": [
+      {
+        "animal": "porco"
+      },
+      {
+        "animal": "zebra"
+      }
+    ],
+    "vencedor": "zebra",
+    "seed": 3257,
+    "tempoCorrida": 12,
+    "textos": {
+      "gancho": "DUELO: Porco x Zebra! Quem ganha?",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "DEU {nome}!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Porco x Zebra",
+    "legenda": "DUELO: Porco x Zebra! Quem ganha? Corredores: Porco, Zebra. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

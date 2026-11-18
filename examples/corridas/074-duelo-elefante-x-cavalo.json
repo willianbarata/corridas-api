@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Elefante x Cavalo",
+    "pista": {
+      "comprimento": 54
+    },
+    "corredores": [
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "cavalo"
+      }
+    ],
+    "vencedor": "elefante",
+    "seed": 3738,
+    "tempoCorrida": 11,
+    "textos": {
+      "gancho": "DUELO: Elefante x Cavalo! Quem ganha?",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "{nome} CRUZOU PRIMEIRO!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Elefante x Cavalo",
+    "legenda": "DUELO: Elefante x Cavalo! Quem ganha? Corredores: Elefante, Cavalo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

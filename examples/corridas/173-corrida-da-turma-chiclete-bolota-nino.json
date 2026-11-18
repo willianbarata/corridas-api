@@ -1,0 +1,53 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Turma: Chiclete, Bolota, Nino",
+    "pista": {
+      "comprimento": 50
+    },
+    "corredores": [
+      {
+        "animal": "rinoceronte",
+        "nome": "Chiclete"
+      },
+      {
+        "animal": "triceratops",
+        "nome": "Bolota"
+      },
+      {
+        "animal": "hipopotamo",
+        "nome": "Nino"
+      },
+      {
+        "animal": "avestruz",
+        "nome": "Pipoca"
+      },
+      {
+        "animal": "zebra",
+        "nome": "Foguete"
+      }
+    ],
+    "vencedor": "rinoceronte",
+    "seed": 7401,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "Chiclete, Bolota ou Nino?",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "{nome} VENCEU!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Turma: Chiclete, Bolota, Nino",
+    "legenda": "Chiclete, Bolota ou Nino? Corredores: Chiclete, Bolota, Nino, Pipoca, Foguete. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#pets"
+    ]
+  }
+}

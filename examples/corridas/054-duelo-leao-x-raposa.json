@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Leão x Raposa",
+    "pista": {
+      "comprimento": 50
+    },
+    "corredores": [
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "raposa"
+      }
+    ],
+    "vencedor": "raposa",
+    "seed": 2998,
+    "tempoCorrida": 13,
+    "textos": {
+      "gancho": "DUELO: Leão x Raposa! Quem ganha?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Leão x Raposa",
+    "legenda": "DUELO: Leão x Raposa! Quem ganha? Corredores: Leão, Raposa. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

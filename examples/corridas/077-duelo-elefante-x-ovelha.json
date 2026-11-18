@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Elefante x Ovelha",
+    "pista": {
+      "comprimento": 52
+    },
+    "corredores": [
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "ovelha"
+      }
+    ],
+    "vencedor": "elefante",
+    "seed": 3849,
+    "tempoCorrida": 11,
+    "textos": {
+      "gancho": "DUELO: Elefante x Ovelha! Quem ganha?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} CRUZOU PRIMEIRO!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Elefante x Ovelha",
+    "legenda": "DUELO: Elefante x Ovelha! Quem ganha? Corredores: Elefante, Ovelha. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

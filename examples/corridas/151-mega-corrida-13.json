@@ -1,0 +1,57 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Mega Corrida #13",
+    "pista": {
+      "comprimento": 69
+    },
+    "corredores": [
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "rinoceronte"
+      },
+      {
+        "animal": "zebra"
+      },
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "porco"
+      },
+      {
+        "animal": "pinguim"
+      }
+    ],
+    "vencedor": "sorteio",
+    "seed": 6587,
+    "tempoCorrida": 19,
+    "textos": {
+      "gancho": "A maior corrida de todas!",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Mega Corrida",
+    "legenda": "A maior corrida de todas! Corredores: Hipopótamo, Rinoceronte, Zebra, Avestruz, Ovelha, Elefante, Porco, Pinguim. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#megacorrida"
+    ]
+  }
+}

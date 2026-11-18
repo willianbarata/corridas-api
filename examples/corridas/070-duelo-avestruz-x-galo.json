@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Avestruz x Galo",
+    "pista": {
+      "comprimento": 45
+    },
+    "corredores": [
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "galo"
+      }
+    ],
+    "vencedor": "galo",
+    "seed": 3590,
+    "tempoCorrida": 13,
+    "textos": {
+      "gancho": "DUELO: Avestruz x Galo! Quem ganha?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Avestruz x Galo",
+    "legenda": "DUELO: Avestruz x Galo! Quem ganha? Corredores: Avestruz, Galo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

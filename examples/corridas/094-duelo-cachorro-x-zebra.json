@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Cachorro x Zebra",
+    "pista": {
+      "comprimento": 48
+    },
+    "corredores": [
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "zebra"
+      }
+    ],
+    "vencedor": "zebra",
+    "seed": 4478,
+    "tempoCorrida": 10,
+    "textos": {
+      "gancho": "DUELO: Cachorro x Zebra! Quem ganha?",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "DEU {nome}!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Cachorro x Zebra",
+    "legenda": "DUELO: Cachorro x Zebra! Quem ganha? Corredores: Cachorro, Zebra. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

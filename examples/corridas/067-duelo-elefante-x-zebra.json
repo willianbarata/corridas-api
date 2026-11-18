@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Elefante x Zebra",
+    "pista": {
+      "comprimento": 55
+    },
+    "corredores": [
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "zebra"
+      }
+    ],
+    "vencedor": "elefante",
+    "seed": 3479,
+    "tempoCorrida": 12,
+    "textos": {
+      "gancho": "DUELO: Elefante x Zebra! Quem ganha?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} CRUZOU PRIMEIRO!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Elefante x Zebra",
+    "legenda": "DUELO: Elefante x Zebra! Quem ganha? Corredores: Elefante, Zebra. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

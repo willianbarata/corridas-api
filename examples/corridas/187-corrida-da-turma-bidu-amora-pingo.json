@@ -1,0 +1,45 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Turma: Bidu, Amora, Pingo",
+    "pista": {
+      "comprimento": 62
+    },
+    "corredores": [
+      {
+        "animal": "hipopotamo",
+        "nome": "Bidu"
+      },
+      {
+        "animal": "flamingo",
+        "nome": "Amora"
+      },
+      {
+        "animal": "cavalo",
+        "nome": "Pingo"
+      }
+    ],
+    "vencedor": "hipopotamo",
+    "seed": 7919,
+    "tempoCorrida": 15,
+    "textos": {
+      "gancho": "Torce pro seu favorito!",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Você acertou? Comenta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Turma: Bidu, Amora, Pingo",
+    "legenda": "Torce pro seu favorito! Corredores: Bidu, Amora, Pingo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#pets"
+    ]
+  }
+}

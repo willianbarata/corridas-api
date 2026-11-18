@@ -1,0 +1,52 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Pinguim contra os Gigantes 11",
+    "pista": {
+      "comprimento": 67
+    },
+    "corredores": [
+      {
+        "animal": "pinguim"
+      },
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "triceratops"
+      },
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "elefante"
+      }
+    ],
+    "vencedor": "pinguim",
+    "seed": 5403,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "O pinguim tem chance contra os gigantes?",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "ZEBRA! DEU {nome}!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Pinguim contra os Gigantes",
+    "legenda": "O pinguim tem chance contra os gigantes? Corredores: Pinguim, Hipopótamo, Tricerátops, Cavalo, Vaca, Elefante. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

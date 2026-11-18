@@ -1,0 +1,43 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Ovelha contra os Gigantes 18",
+    "pista": {
+      "comprimento": 66
+    },
+    "corredores": [
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "ovelha"
+      }
+    ],
+    "vencedor": "ovelha",
+    "seed": 5662,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "Ninguém aposta no pequeno...",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "ZEBRA! DEU {nome}!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Ovelha contra os Gigantes",
+    "legenda": "Ninguém aposta no pequeno... Corredores: Elefante, Leão, Ovelha. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

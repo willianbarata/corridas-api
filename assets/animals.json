@@ -1,0 +1,25 @@
+{
+  "note": "Corredores animais (Gobkit CC0, https://gobkit.com/api/free). height = altura em metros na pista (cartoon, não realista). nome = como aparece no vídeo.",
+  "animals": [
+    {"id": "cachorro", "nome": "Cachorro", "source": "gobkit/Corgi.glb", "height": 0.7},
+    {"id": "leao", "nome": "Leão", "source": "gobkit/Lion.glb", "height": 1.1},
+    {"id": "tigre", "nome": "Tigre", "source": "gobkit/Tiger.glb", "height": 1.0},
+    {"id": "elefante", "nome": "Elefante", "source": "gobkit/Elephant.glb", "height": 1.7},
+    {"id": "zebra", "nome": "Zebra", "source": "gobkit/Zebra.glb", "height": 1.4},
+    {"id": "avestruz", "nome": "Avestruz", "source": "gobkit/Ostrich.glb", "height": 1.8},
+    {"id": "rinoceronte", "nome": "Rinoceronte", "source": "gobkit/Rhino.glb", "height": 1.3},
+    {"id": "hipopotamo", "nome": "Hipopótamo", "source": "gobkit/Hippo.glb", "height": 1.2},
+    {"id": "cavalo", "nome": "Cavalo", "source": "gobkit/PalominoHorse.glb", "height": 1.5},
+    {"id": "raposa", "nome": "Raposa", "source": "gobkit/Fox.glb", "height": 0.7},
+    {"id": "lebre", "nome": "Lebre", "source": "gobkit/Hare.glb", "height": 0.7},
+    {"id": "porco", "nome": "Porco", "source": "gobkit/Pig.glb", "height": 0.8},
+    {"id": "vaca", "nome": "Vaca", "source": "gobkit/HolsteinCow.glb", "height": 1.4},
+    {"id": "ovelha", "nome": "Ovelha", "source": "gobkit/Sheep.glb", "height": 0.9},
+    {"id": "pinguim", "nome": "Pinguim", "source": "gobkit/Penguin.glb", "height": 0.8},
+    {"id": "galo", "nome": "Galo", "source": "gobkit/Rooster.glb", "height": 0.7},
+    {"id": "flamingo", "nome": "Flamingo", "source": "gobkit/Flamingo.glb", "height": 1.3},
+    {"id": "pato", "nome": "Pato", "source": "gobkit/Duck.glb", "height": 0.6},
+    {"id": "trex", "nome": "T-Rex", "source": "gobkit/Trex.glb", "height": 2.0},
+    {"id": "triceratops", "nome": "Tricerátops", "source": "gobkit/Triceratops.glb", "height": 1.4}
+  ]
+}

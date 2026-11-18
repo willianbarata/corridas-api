@@ -1,0 +1,52 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Pesos Pesados #3",
+    "pista": {
+      "comprimento": 56
+    },
+    "corredores": [
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "triceratops"
+      },
+      {
+        "animal": "rinoceronte"
+      }
+    ],
+    "vencedor": "vaca",
+    "seed": 2221,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "Corrida dos gigantes! Quem aguenta?",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Pesos Pesados",
+    "legenda": "Corrida dos gigantes! Quem aguenta? Corredores: Elefante, Vaca, Hipopótamo, T-Rex, Tricerátops, Rinoceronte. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#gigantes",
+      "#pesopesado"
+    ]
+  }
+}

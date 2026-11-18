@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Cachorro x Ovelha",
+    "pista": {
+      "comprimento": 49
+    },
+    "corredores": [
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "ovelha"
+      }
+    ],
+    "vencedor": "ovelha",
+    "seed": 3183,
+    "tempoCorrida": 11,
+    "textos": {
+      "gancho": "DUELO: Cachorro x Ovelha! Quem ganha?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Cachorro x Ovelha",
+    "legenda": "DUELO: Cachorro x Ovelha! Quem ganha? Corredores: Cachorro, Ovelha. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

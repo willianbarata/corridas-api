@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Vaca x Pato",
+    "pista": {
+      "comprimento": 47
+    },
+    "corredores": [
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "pato"
+      }
+    ],
+    "vencedor": "pato",
+    "seed": 3812,
+    "tempoCorrida": 10,
+    "textos": {
+      "gancho": "DUELO: Vaca x Pato! Quem ganha?",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "{nome} CRUZOU PRIMEIRO!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Vaca x Pato",
+    "legenda": "DUELO: Vaca x Pato! Quem ganha? Corredores: Vaca, Pato. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

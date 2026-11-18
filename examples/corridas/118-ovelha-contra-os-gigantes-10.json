@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Ovelha contra os Gigantes 10",
+    "pista": {
+      "comprimento": 50
+    },
+    "corredores": [
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "trex"
+      }
+    ],
+    "vencedor": "ovelha",
+    "seed": 5366,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "A ovelha tem chance contra os gigantes?",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "NINGUÉM ESPERAVA: {nome}!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Ovelha contra os Gigantes",
+    "legenda": "A ovelha tem chance contra os gigantes? Corredores: Ovelha, Cavalo, Vaca, T-Rex. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

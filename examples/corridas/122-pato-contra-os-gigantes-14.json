@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Pato contra os Gigantes 14",
+    "pista": {
+      "comprimento": 51
+    },
+    "corredores": [
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "pato"
+      }
+    ],
+    "vencedor": "pato",
+    "seed": 5514,
+    "tempoCorrida": 15,
+    "textos": {
+      "gancho": "Ninguém aposta no pequeno...",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "NINGUÉM ESPERAVA: {nome}!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Pato contra os Gigantes",
+    "legenda": "Ninguém aposta no pequeno... Corredores: Elefante, Cavalo, Leão, Pato. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

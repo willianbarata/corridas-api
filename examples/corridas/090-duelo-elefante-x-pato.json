@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Elefante x Pato",
+    "pista": {
+      "comprimento": 47
+    },
+    "corredores": [
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "pato"
+      }
+    ],
+    "vencedor": "elefante",
+    "seed": 4330,
+    "tempoCorrida": 12,
+    "textos": {
+      "gancho": "DUELO: Elefante x Pato! Quem ganha?",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "{nome} VENCEU!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Elefante x Pato",
+    "legenda": "DUELO: Elefante x Pato! Quem ganha? Corredores: Elefante, Pato. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

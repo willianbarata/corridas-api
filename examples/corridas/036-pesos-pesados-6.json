@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Pesos Pesados #6",
+    "pista": {
+      "comprimento": 60
+    },
+    "corredores": [
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "triceratops"
+      },
+      {
+        "animal": "rinoceronte"
+      },
+      {
+        "animal": "hipopotamo"
+      }
+    ],
+    "vencedor": "hipopotamo",
+    "seed": 2332,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "Pausa e escolhe o seu!",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "DEU {nome}!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Pesos Pesados",
+    "legenda": "Pausa e escolhe o seu! Corredores: Vaca, Tricerátops, Rinoceronte, Hipopótamo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#gigantes",
+      "#pesopesado"
+    ]
+  }
+}

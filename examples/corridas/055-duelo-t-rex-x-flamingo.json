@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: T-Rex x Flamingo",
+    "pista": {
+      "comprimento": 49
+    },
+    "corredores": [
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "flamingo"
+      }
+    ],
+    "vencedor": "flamingo",
+    "seed": 3035,
+    "tempoCorrida": 11,
+    "textos": {
+      "gancho": "DUELO: T-Rex x Flamingo! Quem ganha?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Duelo: T-Rex x Flamingo",
+    "legenda": "DUELO: T-Rex x Flamingo! Quem ganha? Corredores: T-Rex, Flamingo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

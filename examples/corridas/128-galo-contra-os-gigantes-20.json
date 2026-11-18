@@ -1,0 +1,52 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Galo contra os Gigantes 20",
+    "pista": {
+      "comprimento": 66
+    },
+    "corredores": [
+      {
+        "animal": "rinoceronte"
+      },
+      {
+        "animal": "galo"
+      },
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "cavalo"
+      }
+    ],
+    "vencedor": "galo",
+    "seed": 5736,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "Ninguém aposta no pequeno...",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "NINGUÉM ESPERAVA: {nome}!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Galo contra os Gigantes",
+    "legenda": "Ninguém aposta no pequeno... Corredores: Rinoceronte, Galo, Vaca, Tigre, T-Rex, Cavalo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

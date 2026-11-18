@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Turma: Zeus, Jujuba, Foguete",
+    "pista": {
+      "comprimento": 60
+    },
+    "corredores": [
+      {
+        "animal": "flamingo",
+        "nome": "Zeus"
+      },
+      {
+        "animal": "zebra",
+        "nome": "Jujuba"
+      },
+      {
+        "animal": "pinguim",
+        "nome": "Foguete"
+      },
+      {
+        "animal": "vaca",
+        "nome": "Nino"
+      }
+    ],
+    "vencedor": "zebra",
+    "seed": 7956,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "Zeus, Jujuba ou Foguete?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Turma: Zeus, Jujuba, Foguete",
+    "legenda": "Zeus, Jujuba ou Foguete? Corredores: Zeus, Jujuba, Foguete, Nino. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#pets"
+    ]
+  }
+}

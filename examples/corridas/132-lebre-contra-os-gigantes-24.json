@@ -1,0 +1,52 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Lebre contra os Gigantes 24",
+    "pista": {
+      "comprimento": 58
+    },
+    "corredores": [
+      {
+        "animal": "lebre"
+      },
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "triceratops"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "rinoceronte"
+      }
+    ],
+    "vencedor": "lebre",
+    "seed": 5884,
+    "tempoCorrida": 16,
+    "textos": {
+      "gancho": "A lebre tem chance contra os gigantes?",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "SURPRESA! {nome} GANHOU!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Lebre contra os Gigantes",
+    "legenda": "A lebre tem chance contra os gigantes? Corredores: Lebre, Leão, Tricerátops, Elefante, Tigre, Rinoceronte. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

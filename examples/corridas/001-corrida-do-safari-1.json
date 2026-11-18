@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida do Safari #1",
+    "pista": {
+      "comprimento": 56
+    },
+    "corredores": [
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "rinoceronte"
+      }
+    ],
+    "vencedor": "rinoceronte",
+    "seed": 1037,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "Corrida do safari: quem ganha?",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "{nome} CRUZOU PRIMEIRO!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Corrida do Safari",
+    "legenda": "Corrida do safari: quem ganha? Corredores: Hipopótamo, Tigre, Avestruz, Leão, Rinoceronte. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#safari",
+      "#savana"
+    ]
+  }
+}

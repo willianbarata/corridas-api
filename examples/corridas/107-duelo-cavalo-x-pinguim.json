@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Cavalo x Pinguim",
+    "pista": {
+      "comprimento": 46
+    },
+    "corredores": [
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "pinguim"
+      }
+    ],
+    "vencedor": "pinguim",
+    "seed": 4959,
+    "tempoCorrida": 11,
+    "textos": {
+      "gancho": "DUELO: Cavalo x Pinguim! Quem ganha?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Cavalo x Pinguim",
+    "legenda": "DUELO: Cavalo x Pinguim! Quem ganha? Corredores: Cavalo, Pinguim. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

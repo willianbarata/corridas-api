@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Hipopótamo x Zebra",
+    "pista": {
+      "comprimento": 47
+    },
+    "corredores": [
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "zebra"
+      }
+    ],
+    "vencedor": "hipopotamo",
+    "seed": 4848,
+    "tempoCorrida": 10,
+    "textos": {
+      "gancho": "DUELO: Hipopótamo x Zebra! Quem ganha?",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Você acertou? Comenta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Hipopótamo x Zebra",
+    "legenda": "DUELO: Hipopótamo x Zebra! Quem ganha? Corredores: Hipopótamo, Zebra. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

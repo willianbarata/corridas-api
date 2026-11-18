@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Tigre x Porco",
+    "pista": {
+      "comprimento": 42
+    },
+    "corredores": [
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "porco"
+      }
+    ],
+    "vencedor": "tigre",
+    "seed": 4034,
+    "tempoCorrida": 10,
+    "textos": {
+      "gancho": "DUELO: Tigre x Porco! Quem ganha?",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Tigre x Porco",
+    "legenda": "DUELO: Tigre x Porco! Quem ganha? Corredores: Tigre, Porco. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

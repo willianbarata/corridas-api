@@ -1,0 +1,52 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Os Mais Velozes #3",
+    "pista": {
+      "comprimento": 62
+    },
+    "corredores": [
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "raposa"
+      },
+      {
+        "animal": "zebra"
+      },
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "lebre"
+      }
+    ],
+    "vencedor": "avestruz",
+    "seed": 1999,
+    "tempoCorrida": 16,
+    "textos": {
+      "gancho": "Só os mais rápidos! Quem ganha?",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "{nome} CRUZOU PRIMEIRO!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Os Mais Velozes",
+    "legenda": "Só os mais rápidos! Quem ganha? Corredores: Avestruz, Cavalo, Raposa, Zebra, Tigre, Lebre. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#velocidade",
+      "#animaisrapidos"
+    ]
+  }
+}

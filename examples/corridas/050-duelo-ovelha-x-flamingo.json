@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Ovelha x Flamingo",
+    "pista": {
+      "comprimento": 44
+    },
+    "corredores": [
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "flamingo"
+      }
+    ],
+    "vencedor": "ovelha",
+    "seed": 2850,
+    "tempoCorrida": 11,
+    "textos": {
+      "gancho": "DUELO: Ovelha x Flamingo! Quem ganha?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Ovelha x Flamingo",
+    "legenda": "DUELO: Ovelha x Flamingo! Quem ganha? Corredores: Ovelha, Flamingo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

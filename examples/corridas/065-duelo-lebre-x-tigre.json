@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Lebre x Tigre",
+    "pista": {
+      "comprimento": 46
+    },
+    "corredores": [
+      {
+        "animal": "lebre"
+      },
+      {
+        "animal": "tigre"
+      }
+    ],
+    "vencedor": "tigre",
+    "seed": 3405,
+    "tempoCorrida": 12,
+    "textos": {
+      "gancho": "DUELO: Lebre x Tigre! Quem ganha?",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Lebre x Tigre",
+    "legenda": "DUELO: Lebre x Tigre! Quem ganha? Corredores: Lebre, Tigre. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

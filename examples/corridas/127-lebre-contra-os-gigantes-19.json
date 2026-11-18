@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Lebre contra os Gigantes 19",
+    "pista": {
+      "comprimento": 70
+    },
+    "corredores": [
+      {
+        "animal": "lebre"
+      },
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "tigre"
+      }
+    ],
+    "vencedor": "lebre",
+    "seed": 5699,
+    "tempoCorrida": 16,
+    "textos": {
+      "gancho": "O menor tem alguma chance?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "SURPRESA! {nome} GANHOU!",
+      "final": "Você acertou? Comenta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Lebre contra os Gigantes",
+    "legenda": "O menor tem alguma chance? Corredores: Lebre, T-Rex, Elefante, Tigre. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

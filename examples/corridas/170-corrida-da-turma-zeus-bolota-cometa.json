@@ -1,0 +1,53 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Turma: Zeus, Bolota, Cometa",
+    "pista": {
+      "comprimento": 50
+    },
+    "corredores": [
+      {
+        "animal": "flamingo",
+        "nome": "Zeus"
+      },
+      {
+        "animal": "porco",
+        "nome": "Bolota"
+      },
+      {
+        "animal": "rinoceronte",
+        "nome": "Cometa"
+      },
+      {
+        "animal": "elefante",
+        "nome": "Tico"
+      },
+      {
+        "animal": "raposa",
+        "nome": "Bidu"
+      }
+    ],
+    "vencedor": "flamingo",
+    "seed": 7290,
+    "tempoCorrida": 16,
+    "textos": {
+      "gancho": "Torce pro seu favorito!",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Você acertou? Comenta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Turma: Zeus, Bolota, Cometa",
+    "legenda": "Torce pro seu favorito! Corredores: Zeus, Bolota, Cometa, Tico, Bidu. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#pets"
+    ]
+  }
+}

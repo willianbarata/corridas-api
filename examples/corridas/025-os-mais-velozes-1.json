@@ -1,0 +1,52 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Os Mais Velozes #1",
+    "pista": {
+      "comprimento": 58
+    },
+    "corredores": [
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "zebra"
+      },
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "raposa"
+      }
+    ],
+    "vencedor": "cavalo",
+    "seed": 1925,
+    "tempoCorrida": 16,
+    "textos": {
+      "gancho": "Só os mais rápidos! Quem ganha?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Os Mais Velozes",
+    "legenda": "Só os mais rápidos! Quem ganha? Corredores: Tigre, Leão, Cavalo, Zebra, Avestruz, Raposa. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#velocidade",
+      "#animaisrapidos"
+    ]
+  }
+}

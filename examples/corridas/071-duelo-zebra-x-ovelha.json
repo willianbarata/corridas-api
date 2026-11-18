@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Zebra x Ovelha",
+    "pista": {
+      "comprimento": 45
+    },
+    "corredores": [
+      {
+        "animal": "zebra"
+      },
+      {
+        "animal": "ovelha"
+      }
+    ],
+    "vencedor": "zebra",
+    "seed": 3627,
+    "tempoCorrida": 10,
+    "textos": {
+      "gancho": "DUELO: Zebra x Ovelha! Quem ganha?",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "DEU {nome}!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Zebra x Ovelha",
+    "legenda": "DUELO: Zebra x Ovelha! Quem ganha? Corredores: Zebra, Ovelha. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

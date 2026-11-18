@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Ovelha contra os Gigantes 27",
+    "pista": {
+      "comprimento": 64
+    },
+    "corredores": [
+      {
+        "animal": "triceratops"
+      },
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "elefante"
+      }
+    ],
+    "vencedor": "ovelha",
+    "seed": 5995,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "A ovelha tem chance contra os gigantes?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "SURPRESA! {nome} GANHOU!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Ovelha contra os Gigantes",
+    "legenda": "A ovelha tem chance contra os gigantes? Corredores: Tricerátops, Hipopótamo, Ovelha, Leão, Elefante. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Cachorro x Vaca",
+    "pista": {
+      "comprimento": 50
+    },
+    "corredores": [
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "vaca"
+      }
+    ],
+    "vencedor": "vaca",
+    "seed": 3516,
+    "tempoCorrida": 10,
+    "textos": {
+      "gancho": "DUELO: Cachorro x Vaca! Quem ganha?",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "{nome} VENCEU!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Cachorro x Vaca",
+    "legenda": "DUELO: Cachorro x Vaca! Quem ganha? Corredores: Cachorro, Vaca. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

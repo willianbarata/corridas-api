@@ -1,0 +1,57 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Mega Corrida #22",
+    "pista": {
+      "comprimento": 80
+    },
+    "corredores": [
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "porco"
+      },
+      {
+        "animal": "lebre"
+      },
+      {
+        "animal": "triceratops"
+      },
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "rinoceronte"
+      },
+      {
+        "animal": "ovelha"
+      }
+    ],
+    "vencedor": "sorteio",
+    "seed": 6920,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "8 animais, só 1 vence! Qual?",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "DEU {nome}!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Mega Corrida",
+    "legenda": "8 animais, só 1 vence! Qual? Corredores: Hipopótamo, Cavalo, Porco, Lebre, Tricerátops, Cachorro, Rinoceronte, Ovelha. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#megacorrida"
+    ]
+  }
+}

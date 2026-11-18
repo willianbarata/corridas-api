@@ -1,0 +1,57 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Mega Corrida #20",
+    "pista": {
+      "comprimento": 71
+    },
+    "corredores": [
+      {
+        "animal": "rinoceronte"
+      },
+      {
+        "animal": "flamingo"
+      },
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "triceratops"
+      }
+    ],
+    "vencedor": "sorteio",
+    "seed": 6846,
+    "tempoCorrida": 19,
+    "textos": {
+      "gancho": "MEGA CORRIDA com 8 animais!",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} VENCEU!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Mega Corrida",
+    "legenda": "MEGA CORRIDA com 8 animais! Corredores: Rinoceronte, Flamingo, Avestruz, Hipopótamo, Cachorro, T-Rex, Leão, Tricerátops. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#megacorrida"
+    ]
+  }
+}

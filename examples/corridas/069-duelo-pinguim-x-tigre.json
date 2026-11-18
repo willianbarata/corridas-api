@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Pinguim x Tigre",
+    "pista": {
+      "comprimento": 46
+    },
+    "corredores": [
+      {
+        "animal": "pinguim"
+      },
+      {
+        "animal": "tigre"
+      }
+    ],
+    "vencedor": "tigre",
+    "seed": 3553,
+    "tempoCorrida": 10,
+    "textos": {
+      "gancho": "DUELO: Pinguim x Tigre! Quem ganha?",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "DEU {nome}!",
+      "final": "Você acertou? Comenta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Pinguim x Tigre",
+    "legenda": "DUELO: Pinguim x Tigre! Quem ganha? Corredores: Pinguim, Tigre. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Mega Corrida #18",
+    "pista": {
+      "comprimento": 79
+    },
+    "corredores": [
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "pato"
+      },
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "porco"
+      },
+      {
+        "animal": "tigre"
+      }
+    ],
+    "vencedor": "sorteio",
+    "seed": 6772,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "MEGA CORRIDA com 8 animais!",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Mega Corrida",
+    "legenda": "MEGA CORRIDA com 8 animais! Corredores: Cachorro, Pato, Hipopótamo, Leão, Cavalo, Ovelha, Porco, Tigre. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#megacorrida"
+    ]
+  }
+}

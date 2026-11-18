@@ -1,0 +1,52 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Porco contra os Gigantes 21",
+    "pista": {
+      "comprimento": 66
+    },
+    "corredores": [
+      {
+        "animal": "porco"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "rinoceronte"
+      }
+    ],
+    "vencedor": "porco",
+    "seed": 5773,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "O porco tem chance contra os gigantes?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "NINGUÉM ESPERAVA: {nome}!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Porco contra os Gigantes",
+    "legenda": "O porco tem chance contra os gigantes? Corredores: Porco, Elefante, Hipopótamo, Cavalo, Tigre, Rinoceronte. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

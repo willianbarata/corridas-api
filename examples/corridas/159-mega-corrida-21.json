@@ -1,0 +1,57 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Mega Corrida #21",
+    "pista": {
+      "comprimento": 75
+    },
+    "corredores": [
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "pinguim"
+      },
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "cavalo"
+      }
+    ],
+    "vencedor": "sorteio",
+    "seed": 6883,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "A maior corrida de todas!",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} VENCEU!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Mega Corrida",
+    "legenda": "A maior corrida de todas! Corredores: Hipopótamo, Ovelha, T-Rex, Vaca, Cachorro, Pinguim, Avestruz, Cavalo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#megacorrida"
+    ]
+  }
+}

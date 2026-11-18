@@ -1,0 +1,45 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Turma: Mel, Cometa, Rex",
+    "pista": {
+      "comprimento": 67
+    },
+    "corredores": [
+      {
+        "animal": "triceratops",
+        "nome": "Mel"
+      },
+      {
+        "animal": "raposa",
+        "nome": "Cometa"
+      },
+      {
+        "animal": "cavalo",
+        "nome": "Rex"
+      }
+    ],
+    "vencedor": "raposa",
+    "seed": 7734,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "Mel, Cometa ou Rex?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} VENCEU!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Turma: Mel, Cometa, Rex",
+    "legenda": "Mel, Cometa ou Rex? Corredores: Mel, Cometa, Rex. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#pets"
+    ]
+  }
+}

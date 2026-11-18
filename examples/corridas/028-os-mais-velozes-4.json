@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Os Mais Velozes #4",
+    "pista": {
+      "comprimento": 67
+    },
+    "corredores": [
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "raposa"
+      },
+      {
+        "animal": "leao"
+      }
+    ],
+    "vencedor": "cavalo",
+    "seed": 2036,
+    "tempoCorrida": 15,
+    "textos": {
+      "gancho": "Aposto que você erra essa!",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} VENCEU!",
+      "final": "Você acertou? Comenta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Os Mais Velozes",
+    "legenda": "Aposto que você erra essa! Corredores: Tigre, Cavalo, Raposa, Leão. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#velocidade",
+      "#animaisrapidos"
+    ]
+  }
+}

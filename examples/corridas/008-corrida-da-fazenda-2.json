@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Fazenda #2",
+    "pista": {
+      "comprimento": 69
+    },
+    "corredores": [
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "galo"
+      },
+      {
+        "animal": "porco"
+      }
+    ],
+    "vencedor": "cavalo",
+    "seed": 1296,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "Escolhe um ANTES da largada!",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "{nome} VENCEU!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Fazenda",
+    "legenda": "Escolhe um ANTES da largada! Corredores: Cavalo, Ovelha, Vaca, Galo, Porco. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#fazenda",
+      "#animaisdafazenda"
+    ]
+  }
+}

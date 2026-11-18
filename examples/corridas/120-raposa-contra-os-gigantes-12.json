@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Raposa contra os Gigantes 12",
+    "pista": {
+      "comprimento": 65
+    },
+    "corredores": [
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "raposa"
+      }
+    ],
+    "vencedor": "raposa",
+    "seed": 5440,
+    "tempoCorrida": 15,
+    "textos": {
+      "gancho": "A raposa tem chance contra os gigantes?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "SURPRESA! {nome} GANHOU!",
+      "final": "Você acertou? Comenta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Raposa contra os Gigantes",
+    "legenda": "A raposa tem chance contra os gigantes? Corredores: Vaca, Elefante, Cavalo, Raposa. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

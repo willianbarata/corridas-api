@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Fazenda #5",
+    "pista": {
+      "comprimento": 64
+    },
+    "corredores": [
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "galo"
+      },
+      {
+        "animal": "porco"
+      },
+      {
+        "animal": "pato"
+      }
+    ],
+    "vencedor": "porco",
+    "seed": 1407,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "Corrida da fazenda: quem ganha?",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "DEU {nome}!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Fazenda",
+    "legenda": "Corrida da fazenda: quem ganha? Corredores: Cachorro, Galo, Porco, Pato. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#fazenda",
+      "#animaisdafazenda"
+    ]
+  }
+}

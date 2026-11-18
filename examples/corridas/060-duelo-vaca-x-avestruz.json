@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Vaca x Avestruz",
+    "pista": {
+      "comprimento": 44
+    },
+    "corredores": [
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "avestruz"
+      }
+    ],
+    "vencedor": "avestruz",
+    "seed": 3220,
+    "tempoCorrida": 12,
+    "textos": {
+      "gancho": "DUELO: Vaca x Avestruz! Quem ganha?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Você acertou? Comenta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Vaca x Avestruz",
+    "legenda": "DUELO: Vaca x Avestruz! Quem ganha? Corredores: Vaca, Avestruz. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

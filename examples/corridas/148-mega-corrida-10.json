@@ -1,0 +1,57 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Mega Corrida #10",
+    "pista": {
+      "comprimento": 78
+    },
+    "corredores": [
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "porco"
+      },
+      {
+        "animal": "rinoceronte"
+      },
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "pinguim"
+      },
+      {
+        "animal": "cavalo"
+      }
+    ],
+    "vencedor": "sorteio",
+    "seed": 6476,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "A maior corrida de todas!",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "DEU {nome}!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Mega Corrida",
+    "legenda": "A maior corrida de todas! Corredores: Vaca, Porco, Rinoceronte, Tigre, Avestruz, Elefante, Pinguim, Cavalo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#megacorrida"
+    ]
+  }
+}

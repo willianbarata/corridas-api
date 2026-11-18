@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Galo contra os Gigantes 30",
+    "pista": {
+      "comprimento": 51
+    },
+    "corredores": [
+      {
+        "animal": "galo"
+      },
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "elefante"
+      }
+    ],
+    "vencedor": "galo",
+    "seed": 6106,
+    "tempoCorrida": 16,
+    "textos": {
+      "gancho": "Ninguém aposta no pequeno...",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "ZEBRA! DEU {nome}!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Galo contra os Gigantes",
+    "legenda": "Ninguém aposta no pequeno... Corredores: Galo, T-Rex, Cavalo, Tigre, Elefante. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

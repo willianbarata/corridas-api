@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida dos Predadores #2",
+    "pista": {
+      "comprimento": 52
+    },
+    "corredores": [
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "raposa"
+      },
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "leao"
+      }
+    ],
+    "vencedor": "trex",
+    "seed": 2628,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "Qual animal vai ganhar?",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "{nome} VENCEU!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Corrida dos Predadores",
+    "legenda": "Qual animal vai ganhar? Corredores: T-Rex, Raposa, Cachorro, Leão. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#predadores",
+      "#leao"
+    ]
+  }
+}

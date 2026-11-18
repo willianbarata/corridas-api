@@ -1,0 +1,57 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Mega Corrida #24",
+    "pista": {
+      "comprimento": 65
+    },
+    "corredores": [
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "pinguim"
+      },
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "triceratops"
+      },
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "zebra"
+      },
+      {
+        "animal": "lebre"
+      }
+    ],
+    "vencedor": "sorteio",
+    "seed": 6994,
+    "tempoCorrida": 19,
+    "textos": {
+      "gancho": "MEGA CORRIDA com 8 animais!",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "DEU {nome}!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Mega Corrida",
+    "legenda": "MEGA CORRIDA com 8 animais! Corredores: Hipopótamo, Pinguim, Vaca, T-Rex, Tricerátops, Leão, Zebra, Lebre. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#megacorrida"
+    ]
+  }
+}

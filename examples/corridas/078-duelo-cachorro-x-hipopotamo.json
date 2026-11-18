@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Cachorro x Hipopótamo",
+    "pista": {
+      "comprimento": 54
+    },
+    "corredores": [
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "hipopotamo"
+      }
+    ],
+    "vencedor": "cachorro",
+    "seed": 3886,
+    "tempoCorrida": 12,
+    "textos": {
+      "gancho": "DUELO: Cachorro x Hipopótamo! Quem ganha?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Cachorro x Hipopótamo",
+    "legenda": "DUELO: Cachorro x Hipopótamo! Quem ganha? Corredores: Cachorro, Hipopótamo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

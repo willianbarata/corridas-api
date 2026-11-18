@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Turma: Faísca, Amora, Biscoito",
+    "pista": {
+      "comprimento": 69
+    },
+    "corredores": [
+      {
+        "animal": "pato",
+        "nome": "Faísca"
+      },
+      {
+        "animal": "trex",
+        "nome": "Amora"
+      },
+      {
+        "animal": "flamingo",
+        "nome": "Biscoito"
+      },
+      {
+        "animal": "leao",
+        "nome": "Paçoca"
+      }
+    ],
+    "vencedor": "flamingo",
+    "seed": 7623,
+    "tempoCorrida": 16,
+    "textos": {
+      "gancho": "Torce pro seu favorito!",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Turma: Faísca, Amora, Biscoito",
+    "legenda": "Torce pro seu favorito! Corredores: Faísca, Amora, Biscoito, Paçoca. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#pets"
+    ]
+  }
+}

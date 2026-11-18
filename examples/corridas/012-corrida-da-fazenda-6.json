@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Fazenda #6",
+    "pista": {
+      "comprimento": 59
+    },
+    "corredores": [
+      {
+        "animal": "porco"
+      },
+      {
+        "animal": "galo"
+      },
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "cavalo"
+      }
+    ],
+    "vencedor": "porco",
+    "seed": 1444,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "Quem chega primeiro?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Fazenda",
+    "legenda": "Quem chega primeiro? Corredores: Porco, Galo, Ovelha, Cavalo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#fazenda",
+      "#animaisdafazenda"
+    ]
+  }
+}

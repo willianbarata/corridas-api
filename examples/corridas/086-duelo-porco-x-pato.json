@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Porco x Pato",
+    "pista": {
+      "comprimento": 54
+    },
+    "corredores": [
+      {
+        "animal": "porco"
+      },
+      {
+        "animal": "pato"
+      }
+    ],
+    "vencedor": "pato",
+    "seed": 4182,
+    "tempoCorrida": 12,
+    "textos": {
+      "gancho": "DUELO: Porco x Pato! Quem ganha?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Porco x Pato",
+    "legenda": "DUELO: Porco x Pato! Quem ganha? Corredores: Porco, Pato. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

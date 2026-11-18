@@ -1,0 +1,52 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida dos Fofinhos #4",
+    "pista": {
+      "comprimento": 56
+    },
+    "corredores": [
+      {
+        "animal": "porco"
+      },
+      {
+        "animal": "pato"
+      },
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "pinguim"
+      },
+      {
+        "animal": "lebre"
+      }
+    ],
+    "vencedor": "lebre",
+    "seed": 2480,
+    "tempoCorrida": 15,
+    "textos": {
+      "gancho": "Só 1% acerta quem ganha!",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "DEU {nome}!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida dos Fofinhos",
+    "legenda": "Só 1% acerta quem ganha! Corredores: Porco, Pato, Ovelha, Cachorro, Pinguim, Lebre. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#fofura",
+      "#fofinhos"
+    ]
+  }
+}

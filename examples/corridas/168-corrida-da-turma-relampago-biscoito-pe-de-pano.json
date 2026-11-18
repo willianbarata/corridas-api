@@ -1,0 +1,45 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Turma: Relâmpago, Biscoito, Pé de Pano",
+    "pista": {
+      "comprimento": 62
+    },
+    "corredores": [
+      {
+        "animal": "vaca",
+        "nome": "Relâmpago"
+      },
+      {
+        "animal": "elefante",
+        "nome": "Biscoito"
+      },
+      {
+        "animal": "lebre",
+        "nome": "Pé de Pano"
+      }
+    ],
+    "vencedor": "elefante",
+    "seed": 7216,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "Qual bichinho vai ganhar?",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Turma: Relâmpago, Biscoito, Pé de Pano",
+    "legenda": "Qual bichinho vai ganhar? Corredores: Relâmpago, Biscoito, Pé de Pano. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#pets"
+    ]
+  }
+}

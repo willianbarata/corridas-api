@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Porco contra os Gigantes 25",
+    "pista": {
+      "comprimento": 66
+    },
+    "corredores": [
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "porco"
+      },
+      {
+        "animal": "triceratops"
+      },
+      {
+        "animal": "tigre"
+      }
+    ],
+    "vencedor": "porco",
+    "seed": 5921,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "O menor tem alguma chance?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "SURPRESA! {nome} GANHOU!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Porco contra os Gigantes",
+    "legenda": "O menor tem alguma chance? Corredores: Leão, T-Rex, Porco, Tricerátops, Tigre. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

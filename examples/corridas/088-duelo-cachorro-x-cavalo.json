@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Cachorro x Cavalo",
+    "pista": {
+      "comprimento": 46
+    },
+    "corredores": [
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "cavalo"
+      }
+    ],
+    "vencedor": "cachorro",
+    "seed": 4256,
+    "tempoCorrida": 13,
+    "textos": {
+      "gancho": "DUELO: Cachorro x Cavalo! Quem ganha?",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Cachorro x Cavalo",
+    "legenda": "DUELO: Cachorro x Cavalo! Quem ganha? Corredores: Cachorro, Cavalo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

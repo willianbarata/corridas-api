@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida das Aves #3",
+    "pista": {
+      "comprimento": 51
+    },
+    "corredores": [
+      {
+        "animal": "galo"
+      },
+      {
+        "animal": "flamingo"
+      },
+      {
+        "animal": "pato"
+      },
+      {
+        "animal": "pinguim"
+      }
+    ],
+    "vencedor": "flamingo",
+    "seed": 1555,
+    "tempoCorrida": 16,
+    "textos": {
+      "gancho": "Aves na pista! Qual é a mais rápida?",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Você acertou? Comenta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida das Aves",
+    "legenda": "Aves na pista! Qual é a mais rápida? Corredores: Galo, Flamingo, Pato, Pinguim. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#aves",
+      "#passaros"
+    ]
+  }
+}

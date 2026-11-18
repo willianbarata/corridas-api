@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Vaca x Pinguim",
+    "pista": {
+      "comprimento": 49
+    },
+    "corredores": [
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "pinguim"
+      }
+    ],
+    "vencedor": "vaca",
+    "seed": 4700,
+    "tempoCorrida": 12,
+    "textos": {
+      "gancho": "DUELO: Vaca x Pinguim! Quem ganha?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Vaca x Pinguim",
+    "legenda": "DUELO: Vaca x Pinguim! Quem ganha? Corredores: Vaca, Pinguim. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

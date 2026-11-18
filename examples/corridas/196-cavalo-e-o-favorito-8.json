@@ -1,0 +1,48 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Cavalo é o Favorito? 8",
+    "pista": {
+      "comprimento": 50
+    },
+    "corredores": [
+      {
+        "animal": "rinoceronte"
+      },
+      {
+        "animal": "porco"
+      },
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "galo"
+      },
+      {
+        "animal": "cavalo"
+      }
+    ],
+    "vencedor": "cachorro",
+    "seed": 8252,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "Todo mundo aposta no Cavalo... e você?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "SURPRESA! {nome} GANHOU!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Cavalo é o Favorito?",
+    "legenda": "Todo mundo aposta no Cavalo... e você? Corredores: Rinoceronte, Porco, Cachorro, Galo, Cavalo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#favorito"
+    ]
+  }
+}

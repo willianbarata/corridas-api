@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Os Mais Velozes #5",
+    "pista": {
+      "comprimento": 51
+    },
+    "corredores": [
+      {
+        "animal": "lebre"
+      },
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "raposa"
+      }
+    ],
+    "vencedor": "tigre",
+    "seed": 2073,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "Só os mais rápidos! Quem ganha?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} CRUZOU PRIMEIRO!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Os Mais Velozes",
+    "legenda": "Só os mais rápidos! Quem ganha? Corredores: Lebre, Tigre, Avestruz, Raposa. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#velocidade",
+      "#animaisrapidos"
+    ]
+  }
+}

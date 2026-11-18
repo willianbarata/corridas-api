@@ -1,0 +1,52 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Os Mais Velozes #6",
+    "pista": {
+      "comprimento": 58
+    },
+    "corredores": [
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "lebre"
+      },
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "raposa"
+      },
+      {
+        "animal": "zebra"
+      },
+      {
+        "animal": "cavalo"
+      }
+    ],
+    "vencedor": "tigre",
+    "seed": 2110,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "Essa corrida vai te surpreender!",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Os Mais Velozes",
+    "legenda": "Essa corrida vai te surpreender! Corredores: Leão, Lebre, Tigre, Raposa, Zebra, Cavalo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#velocidade",
+      "#animaisrapidos"
+    ]
+  }
+}

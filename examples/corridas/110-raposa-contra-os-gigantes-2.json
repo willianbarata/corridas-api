@@ -1,0 +1,43 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Raposa contra os Gigantes 2",
+    "pista": {
+      "comprimento": 60
+    },
+    "corredores": [
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "raposa"
+      }
+    ],
+    "vencedor": "raposa",
+    "seed": 5070,
+    "tempoCorrida": 16,
+    "textos": {
+      "gancho": "A raposa tem chance contra os gigantes?",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "SURPRESA! {nome} GANHOU!",
+      "final": "Você acertou? Comenta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Raposa contra os Gigantes",
+    "legenda": "A raposa tem chance contra os gigantes? Corredores: Leão, Elefante, Raposa. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida do Safari #3",
+    "pista": {
+      "comprimento": 66
+    },
+    "corredores": [
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "zebra"
+      }
+    ],
+    "vencedor": "elefante",
+    "seed": 1111,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "Corrida do safari: quem ganha?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida do Safari",
+    "legenda": "Corrida do safari: quem ganha? Corredores: Hipopótamo, Elefante, Leão, Zebra. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#safari",
+      "#savana"
+    ]
+  }
+}

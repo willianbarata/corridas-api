@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Avestruz x Pinguim",
+    "pista": {
+      "comprimento": 46
+    },
+    "corredores": [
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "pinguim"
+      }
+    ],
+    "vencedor": "pinguim",
+    "seed": 3109,
+    "tempoCorrida": 13,
+    "textos": {
+      "gancho": "DUELO: Avestruz x Pinguim! Quem ganha?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Você acertou? Comenta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Avestruz x Pinguim",
+    "legenda": "DUELO: Avestruz x Pinguim! Quem ganha? Corredores: Avestruz, Pinguim. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

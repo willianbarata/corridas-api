@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Tigre x Zebra",
+    "pista": {
+      "comprimento": 40
+    },
+    "corredores": [
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "zebra"
+      }
+    ],
+    "vencedor": "zebra",
+    "seed": 3294,
+    "tempoCorrida": 12,
+    "textos": {
+      "gancho": "DUELO: Tigre x Zebra! Quem ganha?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Você acertou? Comenta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Tigre x Zebra",
+    "legenda": "DUELO: Tigre x Zebra! Quem ganha? Corredores: Tigre, Zebra. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

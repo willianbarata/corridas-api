@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Porco x Cachorro",
+    "pista": {
+      "comprimento": 47
+    },
+    "corredores": [
+      {
+        "animal": "porco"
+      },
+      {
+        "animal": "cachorro"
+      }
+    ],
+    "vencedor": "porco",
+    "seed": 3664,
+    "tempoCorrida": 13,
+    "textos": {
+      "gancho": "DUELO: Porco x Cachorro! Quem ganha?",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "{nome} VENCEU!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Porco x Cachorro",
+    "legenda": "DUELO: Porco x Cachorro! Quem ganha? Corredores: Porco, Cachorro. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

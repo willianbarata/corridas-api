@@ -1,0 +1,57 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Mega Corrida #11",
+    "pista": {
+      "comprimento": 71
+    },
+    "corredores": [
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "rinoceronte"
+      },
+      {
+        "animal": "lebre"
+      },
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "pato"
+      },
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "pinguim"
+      },
+      {
+        "animal": "raposa"
+      }
+    ],
+    "vencedor": "sorteio",
+    "seed": 6513,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "MEGA CORRIDA com 8 animais!",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Mega Corrida",
+    "legenda": "MEGA CORRIDA com 8 animais! Corredores: Hipopótamo, Rinoceronte, Lebre, Cavalo, Pato, Tigre, Pinguim, Raposa. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#megacorrida"
+    ]
+  }
+}

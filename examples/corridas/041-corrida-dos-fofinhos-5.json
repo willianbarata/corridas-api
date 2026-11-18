@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida dos Fofinhos #5",
+    "pista": {
+      "comprimento": 52
+    },
+    "corredores": [
+      {
+        "animal": "pinguim"
+      },
+      {
+        "animal": "porco"
+      },
+      {
+        "animal": "pato"
+      },
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "lebre"
+      }
+    ],
+    "vencedor": "lebre",
+    "seed": 2517,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "Os mais fofos na pista! Quem vence?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Você acertou? Comenta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida dos Fofinhos",
+    "legenda": "Os mais fofos na pista! Quem vence? Corredores: Pinguim, Porco, Pato, Ovelha, Lebre. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#fofura",
+      "#fofinhos"
+    ]
+  }
+}

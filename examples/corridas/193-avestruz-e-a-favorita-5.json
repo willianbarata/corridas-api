@@ -1,0 +1,45 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Avestruz é a Favorita? 5",
+    "pista": {
+      "comprimento": 68
+    },
+    "corredores": [
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "pinguim"
+      },
+      {
+        "animal": "zebra"
+      },
+      {
+        "animal": "avestruz"
+      }
+    ],
+    "vencedor": "avestruz",
+    "seed": 8141,
+    "tempoCorrida": 15,
+    "textos": {
+      "gancho": "Todo mundo aposta na Avestruz... e você?",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Você acertou? Comenta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Avestruz é a Favorita?",
+    "legenda": "Todo mundo aposta na Avestruz... e você? Corredores: Vaca, Pinguim, Zebra, Avestruz. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#favorito"
+    ]
+  }
+}

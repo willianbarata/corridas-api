@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida dos Predadores #6",
+    "pista": {
+      "comprimento": 50
+    },
+    "corredores": [
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "raposa"
+      },
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "leao"
+      }
+    ],
+    "vencedor": "tigre",
+    "seed": 2776,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "Só 1% acerta quem ganha!",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "DEU {nome}!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Corrida dos Predadores",
+    "legenda": "Só 1% acerta quem ganha! Corredores: T-Rex, Cachorro, Raposa, Tigre, Leão. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#predadores",
+      "#leao"
+    ]
+  }
+}

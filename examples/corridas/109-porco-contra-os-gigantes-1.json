@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Porco contra os Gigantes 1",
+    "pista": {
+      "comprimento": 64
+    },
+    "corredores": [
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "porco"
+      }
+    ],
+    "vencedor": "porco",
+    "seed": 5033,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "O porco tem chance contra os gigantes?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "SURPRESA! {nome} GANHOU!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Porco contra os Gigantes",
+    "legenda": "O porco tem chance contra os gigantes? Corredores: Leão, Vaca, Elefante, Porco. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

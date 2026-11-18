@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Galo x Lebre",
+    "pista": {
+      "comprimento": 48
+    },
+    "corredores": [
+      {
+        "animal": "galo"
+      },
+      {
+        "animal": "lebre"
+      }
+    ],
+    "vencedor": "galo",
+    "seed": 4774,
+    "tempoCorrida": 10,
+    "textos": {
+      "gancho": "DUELO: Galo x Lebre! Quem ganha?",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Galo x Lebre",
+    "legenda": "DUELO: Galo x Lebre! Quem ganha? Corredores: Galo, Lebre. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

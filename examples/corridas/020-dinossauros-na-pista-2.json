@@ -1,0 +1,52 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Dinossauros na Pista #2",
+    "pista": {
+      "comprimento": 61
+    },
+    "corredores": [
+      {
+        "animal": "rinoceronte"
+      },
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "triceratops"
+      },
+      {
+        "animal": "hipopotamo"
+      }
+    ],
+    "vencedor": "rinoceronte",
+    "seed": 1740,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "Essa corrida vai te surpreender!",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Dinossauros na Pista",
+    "legenda": "Essa corrida vai te surpreender! Corredores: Rinoceronte, Leão, T-Rex, Elefante, Tricerátops, Hipopótamo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#dinossauro",
+      "#trex"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Zebra x Cavalo",
+    "pista": {
+      "comprimento": 54
+    },
+    "corredores": [
+      {
+        "animal": "zebra"
+      },
+      {
+        "animal": "cavalo"
+      }
+    ],
+    "vencedor": "zebra",
+    "seed": 3923,
+    "tempoCorrida": 10,
+    "textos": {
+      "gancho": "DUELO: Zebra x Cavalo! Quem ganha?",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "{nome} VENCEU!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Zebra x Cavalo",
+    "legenda": "DUELO: Zebra x Cavalo! Quem ganha? Corredores: Zebra, Cavalo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

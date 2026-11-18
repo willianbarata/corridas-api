@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Leão x Flamingo",
+    "pista": {
+      "comprimento": 46
+    },
+    "corredores": [
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "flamingo"
+      }
+    ],
+    "vencedor": "leao",
+    "seed": 2961,
+    "tempoCorrida": 13,
+    "textos": {
+      "gancho": "DUELO: Leão x Flamingo! Quem ganha?",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "{nome} CRUZOU PRIMEIRO!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Leão x Flamingo",
+    "legenda": "DUELO: Leão x Flamingo! Quem ganha? Corredores: Leão, Flamingo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

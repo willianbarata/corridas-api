@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Ovelha x Avestruz",
+    "pista": {
+      "comprimento": 44
+    },
+    "corredores": [
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "avestruz"
+      }
+    ],
+    "vencedor": "ovelha",
+    "seed": 4441,
+    "tempoCorrida": 12,
+    "textos": {
+      "gancho": "DUELO: Ovelha x Avestruz! Quem ganha?",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "{nome} CRUZOU PRIMEIRO!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Ovelha x Avestruz",
+    "legenda": "DUELO: Ovelha x Avestruz! Quem ganha? Corredores: Ovelha, Avestruz. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

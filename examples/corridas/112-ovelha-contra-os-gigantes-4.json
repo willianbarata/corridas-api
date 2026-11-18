@@ -1,0 +1,52 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Ovelha contra os Gigantes 4",
+    "pista": {
+      "comprimento": 62
+    },
+    "corredores": [
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "rinoceronte"
+      }
+    ],
+    "vencedor": "ovelha",
+    "seed": 5144,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "Ninguém aposta no pequeno...",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "ZEBRA! DEU {nome}!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Ovelha contra os Gigantes",
+    "legenda": "Ninguém aposta no pequeno... Corredores: Vaca, Tigre, Hipopótamo, Ovelha, T-Rex, Rinoceronte. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

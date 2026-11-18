@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Cavalo x Rinoceronte",
+    "pista": {
+      "comprimento": 54
+    },
+    "corredores": [
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "rinoceronte"
+      }
+    ],
+    "vencedor": "cavalo",
+    "seed": 4552,
+    "tempoCorrida": 12,
+    "textos": {
+      "gancho": "DUELO: Cavalo x Rinoceronte! Quem ganha?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "DEU {nome}!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Cavalo x Rinoceronte",
+    "legenda": "DUELO: Cavalo x Rinoceronte! Quem ganha? Corredores: Cavalo, Rinoceronte. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

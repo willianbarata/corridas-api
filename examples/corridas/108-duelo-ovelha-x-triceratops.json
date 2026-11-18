@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Ovelha x Tricerátops",
+    "pista": {
+      "comprimento": 45
+    },
+    "corredores": [
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "triceratops"
+      }
+    ],
+    "vencedor": "ovelha",
+    "seed": 4996,
+    "tempoCorrida": 12,
+    "textos": {
+      "gancho": "DUELO: Ovelha x Tricerátops! Quem ganha?",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "{nome} VENCEU!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Ovelha x Tricerátops",
+    "legenda": "DUELO: Ovelha x Tricerátops! Quem ganha? Corredores: Ovelha, Tricerátops. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

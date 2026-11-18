@@ -1,0 +1,52 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Fazenda #1",
+    "pista": {
+      "comprimento": 55
+    },
+    "corredores": [
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "porco"
+      },
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "galo"
+      },
+      {
+        "animal": "cavalo"
+      }
+    ],
+    "vencedor": "vaca",
+    "seed": 1259,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "Corrida da fazenda: quem ganha?",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "DEU {nome}!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Fazenda",
+    "legenda": "Corrida da fazenda: quem ganha? Corredores: Vaca, Cachorro, Porco, Ovelha, Galo, Cavalo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#fazenda",
+      "#animaisdafazenda"
+    ]
+  }
+}

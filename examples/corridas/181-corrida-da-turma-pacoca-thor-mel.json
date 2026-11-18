@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Turma: Paçoca, Thor, Mel",
+    "pista": {
+      "comprimento": 70
+    },
+    "corredores": [
+      {
+        "animal": "trex",
+        "nome": "Paçoca"
+      },
+      {
+        "animal": "pato",
+        "nome": "Thor"
+      },
+      {
+        "animal": "flamingo",
+        "nome": "Mel"
+      },
+      {
+        "animal": "lebre",
+        "nome": "Relâmpago"
+      }
+    ],
+    "vencedor": "flamingo",
+    "seed": 7697,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "Qual bichinho vai ganhar?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} VENCEU!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Turma: Paçoca, Thor, Mel",
+    "legenda": "Qual bichinho vai ganhar? Corredores: Paçoca, Thor, Mel, Relâmpago. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#pets"
+    ]
+  }
+}

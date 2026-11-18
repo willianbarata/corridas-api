@@ -1,0 +1,45 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Avestruz é a Favorita? 11",
+    "pista": {
+      "comprimento": 61
+    },
+    "corredores": [
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "pato"
+      },
+      {
+        "animal": "lebre"
+      },
+      {
+        "animal": "rinoceronte"
+      }
+    ],
+    "vencedor": "avestruz",
+    "seed": 8363,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "Todo mundo aposta na Avestruz... e você?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Avestruz é a Favorita?",
+    "legenda": "Todo mundo aposta na Avestruz... e você? Corredores: Avestruz, Pato, Lebre, Rinoceronte. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#favorito"
+    ]
+  }
+}

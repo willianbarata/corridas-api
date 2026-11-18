@@ -1,0 +1,24 @@
+# Dependências
+node_modules/
+
+# Dados gerados pela API (jobs, vídeos, cache) — use o volume /data no servidor
+data/
+output/
+
+# Segredos e configurações locais
+.env
+.env.*
+!.env.example
+
+# Godot (cache de importação, gerado automaticamente)
+engine/godot/.godot/
+
+# Sistema / editores
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Pacotes gerados
+*.zip

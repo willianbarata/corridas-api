@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Flamingo x Pinguim",
+    "pista": {
+      "comprimento": 46
+    },
+    "corredores": [
+      {
+        "animal": "flamingo"
+      },
+      {
+        "animal": "pinguim"
+      }
+    ],
+    "vencedor": "pinguim",
+    "seed": 2887,
+    "tempoCorrida": 13,
+    "textos": {
+      "gancho": "DUELO: Flamingo x Pinguim! Quem ganha?",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "{nome} CRUZOU PRIMEIRO!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Flamingo x Pinguim",
+    "legenda": "DUELO: Flamingo x Pinguim! Quem ganha? Corredores: Flamingo, Pinguim. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

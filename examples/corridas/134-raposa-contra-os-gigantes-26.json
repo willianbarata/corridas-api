@@ -1,0 +1,43 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Raposa contra os Gigantes 26",
+    "pista": {
+      "comprimento": 61
+    },
+    "corredores": [
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "raposa"
+      }
+    ],
+    "vencedor": "raposa",
+    "seed": 5958,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "Ninguém aposta no pequeno...",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "ZEBRA! DEU {nome}!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Raposa contra os Gigantes",
+    "legenda": "Ninguém aposta no pequeno... Corredores: T-Rex, Cavalo, Raposa. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

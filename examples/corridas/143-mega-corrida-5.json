@@ -1,0 +1,57 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Mega Corrida #5",
+    "pista": {
+      "comprimento": 74
+    },
+    "corredores": [
+      {
+        "animal": "flamingo"
+      },
+      {
+        "animal": "triceratops"
+      },
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "zebra"
+      }
+    ],
+    "vencedor": "sorteio",
+    "seed": 6291,
+    "tempoCorrida": 19,
+    "textos": {
+      "gancho": "A maior corrida de todas!",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "{nome} VENCEU!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Mega Corrida",
+    "legenda": "A maior corrida de todas! Corredores: Flamingo, Tricerátops, Avestruz, Ovelha, Hipopótamo, Elefante, T-Rex, Zebra. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#megacorrida"
+    ]
+  }
+}

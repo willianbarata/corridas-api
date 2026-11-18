@@ -1,0 +1,52 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Dinossauros na Pista #1",
+    "pista": {
+      "comprimento": 57
+    },
+    "corredores": [
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "rinoceronte"
+      },
+      {
+        "animal": "triceratops"
+      },
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "leao"
+      }
+    ],
+    "vencedor": "trex",
+    "seed": 1703,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "Dinossauros x animais de hoje!",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Dinossauros na Pista",
+    "legenda": "Dinossauros x animais de hoje! Corredores: T-Rex, Elefante, Rinoceronte, Tricerátops, Hipopótamo, Leão. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#dinossauro",
+      "#trex"
+    ]
+  }
+}

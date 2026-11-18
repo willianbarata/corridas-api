@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Flamingo x Hipopótamo",
+    "pista": {
+      "comprimento": 46
+    },
+    "corredores": [
+      {
+        "animal": "flamingo"
+      },
+      {
+        "animal": "hipopotamo"
+      }
+    ],
+    "vencedor": "hipopotamo",
+    "seed": 4404,
+    "tempoCorrida": 12,
+    "textos": {
+      "gancho": "DUELO: Flamingo x Hipopótamo! Quem ganha?",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Flamingo x Hipopótamo",
+    "legenda": "DUELO: Flamingo x Hipopótamo! Quem ganha? Corredores: Flamingo, Hipopótamo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

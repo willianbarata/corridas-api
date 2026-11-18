@@ -1,0 +1,15 @@
+{
+  "scale": 0.35890334480594804,
+  "rigged": true,
+  "animations": [
+    "attack",
+    "dead",
+    "idle",
+    "walk"
+  ],
+  "size": [
+    1.499,
+    1.353,
+    1.8
+  ]
+}

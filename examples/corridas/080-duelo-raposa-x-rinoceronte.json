@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Raposa x Rinoceronte",
+    "pista": {
+      "comprimento": 46
+    },
+    "corredores": [
+      {
+        "animal": "raposa"
+      },
+      {
+        "animal": "rinoceronte"
+      }
+    ],
+    "vencedor": "rinoceronte",
+    "seed": 3960,
+    "tempoCorrida": 12,
+    "textos": {
+      "gancho": "DUELO: Raposa x Rinoceronte! Quem ganha?",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Raposa x Rinoceronte",
+    "legenda": "DUELO: Raposa x Rinoceronte! Quem ganha? Corredores: Raposa, Rinoceronte. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

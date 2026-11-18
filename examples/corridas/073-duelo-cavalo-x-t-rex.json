@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Cavalo x T-Rex",
+    "pista": {
+      "comprimento": 49
+    },
+    "corredores": [
+      {
+        "animal": "cavalo"
+      },
+      {
+        "animal": "trex"
+      }
+    ],
+    "vencedor": "trex",
+    "seed": 3701,
+    "tempoCorrida": 13,
+    "textos": {
+      "gancho": "DUELO: Cavalo x T-Rex! Quem ganha?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} VENCEU!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Cavalo x T-Rex",
+    "legenda": "DUELO: Cavalo x T-Rex! Quem ganha? Corredores: Cavalo, T-Rex. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

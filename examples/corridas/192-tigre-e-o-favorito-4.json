@@ -1,0 +1,48 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Tigre é o Favorito? 4",
+    "pista": {
+      "comprimento": 67
+    },
+    "corredores": [
+      {
+        "animal": "galo"
+      },
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "pato"
+      },
+      {
+        "animal": "rinoceronte"
+      }
+    ],
+    "vencedor": "hipopotamo",
+    "seed": 8104,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "Todo mundo aposta no Tigre... e você?",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "SURPRESA! {nome} GANHOU!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Tigre é o Favorito?",
+    "legenda": "Todo mundo aposta no Tigre... e você? Corredores: Galo, Tigre, Hipopótamo, Pato, Rinoceronte. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#favorito"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Turma: Pingo, Bolota, Trovão",
+    "pista": {
+      "comprimento": 52
+    },
+    "corredores": [
+      {
+        "animal": "cavalo",
+        "nome": "Pingo"
+      },
+      {
+        "animal": "flamingo",
+        "nome": "Bolota"
+      },
+      {
+        "animal": "pinguim",
+        "nome": "Trovão"
+      },
+      {
+        "animal": "hipopotamo",
+        "nome": "Tico"
+      },
+      {
+        "animal": "trex",
+        "nome": "Relâmpago"
+      }
+    ],
+    "vencedor": "trex",
+    "seed": 7549,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "Pingo, Bolota ou Trovão?",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Você acertou? Comenta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Turma: Pingo, Bolota, Trovão",
+    "legenda": "Pingo, Bolota ou Trovão? Corredores: Pingo, Bolota, Trovão, Tico, Relâmpago. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#pets"
+    ]
+  }
+}

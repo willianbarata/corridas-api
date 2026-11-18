@@ -1,0 +1,57 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Mega Corrida #8",
+    "pista": {
+      "comprimento": 70
+    },
+    "corredores": [
+      {
+        "animal": "lebre"
+      },
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "pinguim"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "zebra"
+      }
+    ],
+    "vencedor": "sorteio",
+    "seed": 6402,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "8 animais, só 1 vence! Qual?",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Mega Corrida",
+    "legenda": "8 animais, só 1 vence! Qual? Corredores: Lebre, Avestruz, Tigre, Cachorro, Pinguim, Elefante, Hipopótamo, Zebra. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#megacorrida"
+    ]
+  }
+}

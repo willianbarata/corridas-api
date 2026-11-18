@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Turma: Tico, Pingo, Faísca",
+    "pista": {
+      "comprimento": 56
+    },
+    "corredores": [
+      {
+        "animal": "flamingo",
+        "nome": "Tico"
+      },
+      {
+        "animal": "leao",
+        "nome": "Pingo"
+      },
+      {
+        "animal": "triceratops",
+        "nome": "Faísca"
+      },
+      {
+        "animal": "trex",
+        "nome": "Biscoito"
+      }
+    ],
+    "vencedor": "leao",
+    "seed": 7512,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "Tico, Pingo ou Faísca?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Turma: Tico, Pingo, Faísca",
+    "legenda": "Tico, Pingo ou Faísca? Corredores: Tico, Pingo, Faísca, Biscoito. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#pets"
+    ]
+  }
+}

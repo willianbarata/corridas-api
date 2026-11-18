@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Turma: Rex, Relâmpago, Faísca",
+    "pista": {
+      "comprimento": 67
+    },
+    "corredores": [
+      {
+        "animal": "triceratops",
+        "nome": "Rex"
+      },
+      {
+        "animal": "ovelha",
+        "nome": "Relâmpago"
+      },
+      {
+        "animal": "elefante",
+        "nome": "Faísca"
+      },
+      {
+        "animal": "galo",
+        "nome": "Chiclete"
+      }
+    ],
+    "vencedor": "galo",
+    "seed": 7845,
+    "tempoCorrida": 15,
+    "textos": {
+      "gancho": "Qual bichinho vai ganhar?",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Você acertou? Comenta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Turma: Rex, Relâmpago, Faísca",
+    "legenda": "Qual bichinho vai ganhar? Corredores: Rex, Relâmpago, Faísca, Chiclete. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#pets"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "T-Rex é o Favorito? 1",
+    "pista": {
+      "comprimento": 63
+    },
+    "corredores": [
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "pato"
+      },
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "galo"
+      }
+    ],
+    "vencedor": "trex",
+    "seed": 7993,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "Todo mundo aposta no T-Rex... e você?",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "T-Rex é o Favorito?",
+    "legenda": "Todo mundo aposta no T-Rex... e você? Corredores: Vaca, T-Rex, Pato, Hipopótamo, Galo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#favorito"
+    ]
+  }
+}

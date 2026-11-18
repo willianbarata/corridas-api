@@ -1,0 +1,57 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Mega Corrida #9",
+    "pista": {
+      "comprimento": 80
+    },
+    "corredores": [
+      {
+        "animal": "zebra"
+      },
+      {
+        "animal": "flamingo"
+      },
+      {
+        "animal": "rinoceronte"
+      },
+      {
+        "animal": "triceratops"
+      },
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "lebre"
+      },
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "cavalo"
+      }
+    ],
+    "vencedor": "sorteio",
+    "seed": 6439,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "MEGA CORRIDA com 8 animais!",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} CRUZOU PRIMEIRO!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Mega Corrida",
+    "legenda": "MEGA CORRIDA com 8 animais! Corredores: Zebra, Flamingo, Rinoceronte, Tricerátops, Hipopótamo, Lebre, Tigre, Cavalo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#megacorrida"
+    ]
+  }
+}

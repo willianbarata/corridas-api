@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Tigre x Vaca",
+    "pista": {
+      "comprimento": 55
+    },
+    "corredores": [
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "vaca"
+      }
+    ],
+    "vencedor": "vaca",
+    "seed": 4515,
+    "tempoCorrida": 11,
+    "textos": {
+      "gancho": "DUELO: Tigre x Vaca! Quem ganha?",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "{nome} CRUZOU PRIMEIRO!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Tigre x Vaca",
+    "legenda": "DUELO: Tigre x Vaca! Quem ganha? Corredores: Tigre, Vaca. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Pesos Pesados #5",
+    "pista": {
+      "comprimento": 51
+    },
+    "corredores": [
+      {
+        "animal": "vaca"
+      },
+      {
+        "animal": "rinoceronte"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "trex"
+      }
+    ],
+    "vencedor": "rinoceronte",
+    "seed": 2295,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "Corrida dos gigantes! Quem aguenta?",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "DEU {nome}!",
+      "final": "Acertou? Segue pra próxima corrida!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Pesos Pesados",
+    "legenda": "Corrida dos gigantes! Quem aguenta? Corredores: Vaca, Rinoceronte, Elefante, Hipopótamo, T-Rex. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#gigantes",
+      "#pesopesado"
+    ]
+  }
+}

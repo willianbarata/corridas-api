@@ -1,0 +1,57 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Mega Corrida #12",
+    "pista": {
+      "comprimento": 73
+    },
+    "corredores": [
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "zebra"
+      },
+      {
+        "animal": "pato"
+      },
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "pinguim"
+      },
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "flamingo"
+      },
+      {
+        "animal": "trex"
+      }
+    ],
+    "vencedor": "sorteio",
+    "seed": 6550,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "8 animais, só 1 vence! Qual?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Mega Corrida",
+    "legenda": "8 animais, só 1 vence! Qual? Corredores: Elefante, Zebra, Pato, Ovelha, Pinguim, Leão, Flamingo, T-Rex. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#megacorrida"
+    ]
+  }
+}

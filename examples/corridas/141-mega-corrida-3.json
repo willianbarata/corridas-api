@@ -1,0 +1,57 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Mega Corrida #3",
+    "pista": {
+      "comprimento": 65
+    },
+    "corredores": [
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "raposa"
+      },
+      {
+        "animal": "pinguim"
+      },
+      {
+        "animal": "lebre"
+      },
+      {
+        "animal": "triceratops"
+      },
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "cachorro"
+      }
+    ],
+    "vencedor": "sorteio",
+    "seed": 6217,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "8 animais, só 1 vence! Qual?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} VENCEU!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Mega Corrida",
+    "legenda": "8 animais, só 1 vence! Qual? Corredores: T-Rex, Raposa, Pinguim, Lebre, Tricerátops, Tigre, Avestruz, Cachorro. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#megacorrida"
+    ]
+  }
+}

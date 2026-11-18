@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida dos Predadores #3",
+    "pista": {
+      "comprimento": 63
+    },
+    "corredores": [
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "raposa"
+      }
+    ],
+    "vencedor": "raposa",
+    "seed": 2665,
+    "tempoCorrida": 15,
+    "textos": {
+      "gancho": "Predadores na pista! Quem é o rei?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Você acertou? Comenta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida dos Predadores",
+    "legenda": "Predadores na pista! Quem é o rei? Corredores: Leão, Cachorro, Tigre, T-Rex, Raposa. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#predadores",
+      "#leao"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Lebre é a Favorita? 12",
+    "pista": {
+      "comprimento": 50
+    },
+    "corredores": [
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "galo"
+      },
+      {
+        "animal": "flamingo"
+      },
+      {
+        "animal": "lebre"
+      }
+    ],
+    "vencedor": "flamingo",
+    "seed": 8400,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "Todo mundo aposta na Lebre... e você?",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "SURPRESA! {nome} GANHOU!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Lebre é a Favorita?",
+    "legenda": "Todo mundo aposta na Lebre... e você? Corredores: T-Rex, Galo, Flamingo, Lebre. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#favorito"
+    ]
+  }
+}

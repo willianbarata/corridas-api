@@ -1,0 +1,52 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Pato contra os Gigantes 16",
+    "pista": {
+      "comprimento": 65
+    },
+    "corredores": [
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "pato"
+      },
+      {
+        "animal": "triceratops"
+      },
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "vaca"
+      }
+    ],
+    "vencedor": "pato",
+    "seed": 5588,
+    "tempoCorrida": 14,
+    "textos": {
+      "gancho": "O pato tem chance contra os gigantes?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "NINGUÉM ESPERAVA: {nome}!",
+      "final": "Quer revanche? Comenta!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Pato contra os Gigantes",
+    "legenda": "O pato tem chance contra os gigantes? Corredores: Leão, Tigre, Pato, Tricerátops, T-Rex, Vaca. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

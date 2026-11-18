@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Ovelha x Vaca",
+    "pista": {
+      "comprimento": 44
+    },
+    "corredores": [
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "vaca"
+      }
+    ],
+    "vencedor": "vaca",
+    "seed": 3442,
+    "tempoCorrida": 10,
+    "textos": {
+      "gancho": "DUELO: Ovelha x Vaca! Quem ganha?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} CRUZOU PRIMEIRO!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Ovelha x Vaca",
+    "legenda": "DUELO: Ovelha x Vaca! Quem ganha? Corredores: Ovelha, Vaca. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida do Safari #4",
+    "pista": {
+      "comprimento": 70
+    },
+    "corredores": [
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "zebra"
+      },
+      {
+        "animal": "hipopotamo"
+      }
+    ],
+    "vencedor": "elefante",
+    "seed": 1148,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "Só 1% acerta quem ganha!",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "{nome} CRUZOU PRIMEIRO!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida do Safari",
+    "legenda": "Só 1% acerta quem ganha! Corredores: Tigre, Avestruz, Elefante, Zebra, Hipopótamo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#safari",
+      "#savana"
+    ]
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Mega Corrida #19",
+    "pista": {
+      "comprimento": 69
+    },
+    "corredores": [
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "cachorro"
+      },
+      {
+        "animal": "lebre"
+      },
+      {
+        "animal": "flamingo"
+      },
+      {
+        "animal": "pinguim"
+      },
+      {
+        "animal": "pato"
+      },
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "zebra"
+      }
+    ],
+    "vencedor": "sorteio",
+    "seed": 6809,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "MEGA CORRIDA com 8 animais!",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} VENCEU!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Mega Corrida",
+    "legenda": "MEGA CORRIDA com 8 animais! Corredores: Leão, Cachorro, Lebre, Flamingo, Pinguim, Pato, Hipopótamo, Zebra. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#megacorrida"
+    ]
+  }
+}

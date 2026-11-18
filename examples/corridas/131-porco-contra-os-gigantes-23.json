@@ -1,0 +1,52 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Porco contra os Gigantes 23",
+    "pista": {
+      "comprimento": 70
+    },
+    "corredores": [
+      {
+        "animal": "porco"
+      },
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "rinoceronte"
+      },
+      {
+        "animal": "vaca"
+      }
+    ],
+    "vencedor": "porco",
+    "seed": 5847,
+    "tempoCorrida": 15,
+    "textos": {
+      "gancho": "O menor tem alguma chance?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "SURPRESA! {nome} GANHOU!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Porco contra os Gigantes",
+    "legenda": "O menor tem alguma chance? Corredores: Porco, Leão, T-Rex, Hipopótamo, Rinoceronte, Vaca. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

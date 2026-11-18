@@ -1,0 +1,49 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida do Safari #6",
+    "pista": {
+      "comprimento": 54
+    },
+    "corredores": [
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "rinoceronte"
+      },
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "zebra"
+      },
+      {
+        "animal": "hipopotamo"
+      }
+    ],
+    "vencedor": "zebra",
+    "seed": 1222,
+    "tempoCorrida": 16,
+    "textos": {
+      "gancho": "Quem você acha que ganha?",
+      "escolha": "Fala nos comentários quem você escolheu!",
+      "vencedor": "{nome} VENCEU!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida do Safari",
+    "legenda": "Quem você acha que ganha? Corredores: Elefante, Rinoceronte, Leão, Zebra, Hipopótamo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#safari",
+      "#savana"
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Duelo: Avestruz x Elefante",
+    "pista": {
+      "comprimento": 50
+    },
+    "corredores": [
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "elefante"
+      }
+    ],
+    "vencedor": "avestruz",
+    "seed": 3331,
+    "tempoCorrida": 10,
+    "textos": {
+      "gancho": "DUELO: Avestruz x Elefante! Quem ganha?",
+      "escolha": "Comenta o seu antes de acabar!",
+      "vencedor": "DEU {nome}!",
+      "final": "Quem você escolheu? Comenta!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Duelo: Avestruz x Elefante",
+    "legenda": "DUELO: Avestruz x Elefante! Quem ganha? Corredores: Avestruz, Elefante. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#duelo"
+    ]
+  }
+}

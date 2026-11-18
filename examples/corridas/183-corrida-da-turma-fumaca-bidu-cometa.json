@@ -1,0 +1,45 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida da Turma: Fumaça, Bidu, Cometa",
+    "pista": {
+      "comprimento": 51
+    },
+    "corredores": [
+      {
+        "animal": "lebre",
+        "nome": "Fumaça"
+      },
+      {
+        "animal": "avestruz",
+        "nome": "Bidu"
+      },
+      {
+        "animal": "triceratops",
+        "nome": "Cometa"
+      }
+    ],
+    "vencedor": "triceratops",
+    "seed": 7771,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "Torce pro seu favorito!",
+      "escolha": "Escolhe o seu e comenta!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Corrida da Turma: Fumaça, Bidu, Cometa",
+    "legenda": "Torce pro seu favorito! Corredores: Fumaça, Bidu, Cometa. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#pets"
+    ]
+  }
+}

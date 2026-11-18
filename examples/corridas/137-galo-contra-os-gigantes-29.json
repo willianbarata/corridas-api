@@ -1,0 +1,43 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Galo contra os Gigantes 29",
+    "pista": {
+      "comprimento": 51
+    },
+    "corredores": [
+      {
+        "animal": "trex"
+      },
+      {
+        "animal": "tigre"
+      },
+      {
+        "animal": "galo"
+      }
+    ],
+    "vencedor": "galo",
+    "seed": 6069,
+    "tempoCorrida": 16,
+    "textos": {
+      "gancho": "Ninguém aposta no pequeno...",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "ZEBRA! DEU {nome}!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/suspense.wav"
+  },
+  "post": {
+    "titulo": "Galo contra os Gigantes",
+    "legenda": "Ninguém aposta no pequeno... Corredores: T-Rex, Tigre, Galo. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#zebra",
+      "#surpresa"
+    ]
+  }
+}

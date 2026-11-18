@@ -1,0 +1,57 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Mega Corrida #16",
+    "pista": {
+      "comprimento": 74
+    },
+    "corredores": [
+      {
+        "animal": "leao"
+      },
+      {
+        "animal": "ovelha"
+      },
+      {
+        "animal": "hipopotamo"
+      },
+      {
+        "animal": "galo"
+      },
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "elefante"
+      },
+      {
+        "animal": "pato"
+      },
+      {
+        "animal": "tigre"
+      }
+    ],
+    "vencedor": "sorteio",
+    "seed": 6698,
+    "tempoCorrida": 18,
+    "textos": {
+      "gancho": "8 animais, só 1 vence! Qual?",
+      "escolha": "Escolheu? Agora assiste até o fim!",
+      "vencedor": "{nome} GANHOU!",
+      "final": "Acertou de primeira? Conta aí!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Mega Corrida",
+    "legenda": "8 animais, só 1 vence! Qual? Corredores: Leão, Ovelha, Hipopótamo, Galo, Avestruz, Elefante, Pato, Tigre. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#megacorrida"
+    ]
+  }
+}

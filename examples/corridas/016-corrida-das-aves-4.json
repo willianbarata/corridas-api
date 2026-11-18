@@ -1,0 +1,46 @@
+{
+  "corrida": {
+    "version": 1,
+    "title": "Corrida das Aves #4",
+    "pista": {
+      "comprimento": 52
+    },
+    "corredores": [
+      {
+        "animal": "avestruz"
+      },
+      {
+        "animal": "flamingo"
+      },
+      {
+        "animal": "pinguim"
+      },
+      {
+        "animal": "pato"
+      }
+    ],
+    "vencedor": "flamingo",
+    "seed": 1592,
+    "tempoCorrida": 17,
+    "textos": {
+      "gancho": "Quem chega primeiro?",
+      "escolha": "Trava o vídeo e escolhe!",
+      "vencedor": "{nome} LEVOU A MELHOR!",
+      "final": "Marca quem escolheu errado!"
+    },
+    "musica": "music/alegre.wav"
+  },
+  "post": {
+    "titulo": "Corrida das Aves",
+    "legenda": "Quem chega primeiro? Corredores: Avestruz, Flamingo, Pinguim, Pato. Escolhe o seu e comenta antes do final! 🏁",
+    "hashtags": [
+      "#corridadeanimais",
+      "#quemganha",
+      "#animais",
+      "#desenhoanimado",
+      "#shorts",
+      "#aves",
+      "#passaros"
+    ]
+  }
+}

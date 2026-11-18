@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "title": "Corrida da Selva",
+  "video": {"width": 720, "height": 1280, "fps": 24},
+  "pista": {"comprimento": 60},
+  "corredores": [
+    {"animal": "leao"},
+    {"animal": "elefante"},
+    {"animal": "cachorro", "nome": "Rex"},
+    {"animal": "avestruz"},
+    {"animal": "zebra"},
+    {"animal": "trex"}
+  ],
+  "vencedor": "cachorro",
+  "seed": 7,
+  "tempoCorrida": 16,
+  "textos": {"gancho": "Qual animal vai ganhar?", "escolha": "Escolhe o seu e comenta!", "final": "Você acertou? Comenta aí!"}
+}
